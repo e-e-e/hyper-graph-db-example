@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">72</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ac1e16cf-800c-483b-bce4-3776c55bb928</dc:identifier>
+        <dc:title>Two Essays by Ashish Roy</dc:title>
+        <dc:creator opf:file-as="Roy, Ashish, , ," opf:role="aut">Ashish Roy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-03T11:56:30+00:00</dc:date>
+        <dc:description>Two essays by Dr Ashish Roy of English Department, St. Stephens College Delhi University; an inspiring teacher and intellectual who recently passed away. These essays have been freed from the clutches of JSTOR.</dc:description>
+        <dc:identifier opf:scheme="ARG">51c58dd26c3a0ec1115b1400.1</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Ashish Roy&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-07-03T11:57:12.215804+00:00" name="calibre:timestamp"/>
+        <meta content="Two Essays by Ashish Roy" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

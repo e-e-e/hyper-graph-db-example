@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c1496d84-c325-47f5-8df7-dd08ab04125a</dc:identifier>
+        <dc:title>Dipesh Chakrabarthy Essay Collection</dc:title>
+        <dc:creator opf:file-as="Chakrabarty, Dipesh, , ," opf:role="aut">Dipesh Chakrabarty</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-03T11:55:51+00:00</dc:date>
+        <dc:description>Chakrabarty - Adda, Calcutta - Dwelling in Modernity  
+Chakrabarty - Categorial Theory - A Response to Aijaz Ahmad  
+Chakrabarty - Clothing the Political Man - A Reading of the Use of Khadi-White in Indian Public Life  
+Chakrabarty - Communal Riots and Labour - Bengal's Jute Mill-Hands in the 1890s  
+Chakrabarty - In Defense of Provincializing Europe - A Response to Carola Dietze  
+Chakrabarty - 'In the Name of Politics' - Democracy and the Power of the Multitude in India  
+Chakrabarty - 'In the Name of Politics' - Sovereignty, Democracy, and the Multitude in India  
+Chakrabarty - Introduction - The Idea of Povincializing Europe (From Provincializing Europe)  
+Chakrabarty - Legacies of Bandung - Decolonisation and the Politics of Culture  
+Chakrabarty - Marx after Marxism - A Subaltern Historian's Perspective  
+Chakrabarty - Minority Histories, Subaltern Pasts  
+Chakrabarty - Modernity and Ethnicity in India - A History for the Present  
+Chakrabarty - Museums in Late Democracies  
+Chakrabarty - Nation and Imagination  
+Chakrabarty - Nation and Imagination - The Training of the Eye in Bengali Modernity  
+Chakrabarty - Of Garbage, Modernity and the Citizen's Gaze  
+Chakrabarty - On Deifying and Defying Authority - Managers and Workers in the Jute Mills of Bengal circa 1890-1940  
+Chakrabarty - Postcoloniality and the Artifice of History - Who Speaks for 'Indian' Pasts  
+Chakrabarty - Provincializing Europe - Postcoloniality and the Critique of History  
+Chakrabarty - Radical Histories and Question of Enlightenment Rationalism - Some Recent Critiques of 'Subaltern Studies'  
+Chakrabarty - Reconciliation and its Historiography - Some Preliminary Thoughts  
+Chakrabarty - Reconstructing Liberalism - Notes toward a Conversation between Area Studies and D  
+Chakrabarty - Remembered Villages - Representation of Hindu-Bengali Memories in the Aftermath o  
+Chakrabarty - Remembering 1857 - An Introductory Note  
+Chakrabarty - Rethinking Working-Class History  
+Chakrabarty - Review Essay - A Global and Multicultural 'Discipline' of History  
+Chakrabarty - Romantic Archives - Literature and the Politics of Identity in Bengal  
+Chakrabarty - Subaltern Studies and Postcolonial Historiography  
+Chakrabarty - The Climate of History - Four Theses  
+Chakrabarty - The Death of History - Historical Consciousness and the Culture of Late Capitalism  
+Chakrabarty - The Public Life of History - An Argument Out of India  
+Chakrabarty - Universalism and Belonging in the Logic of Capital  
+Chakrabarty - Where Is the Now  
+Chakrabarty and Dasgupta - Functions of the Nineteenth-Century Banian - A Document  
+Chakrabarty and Dube - Presence of Europe - An Interview with Dipesh Chakrabarty  
+Chakrabarty and Ghosh - A Correspondence on Provincializing Europe  
+Chakrabarty and Majumdar - Mangal Panday - Film and History  
+Chakrabarty, Bhabha, Breckenridge and Pollock - Cosmopolitanisms</dc:description>
+        <dc:identifier opf:scheme="ARG">51c584176c3a0ed90b530500.1</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Dipesh Chakrabarty&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-07-03T11:57:09.862776+00:00" name="calibre:timestamp"/>
+        <meta content="Dipesh Chakrabarthy Essay Collection" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

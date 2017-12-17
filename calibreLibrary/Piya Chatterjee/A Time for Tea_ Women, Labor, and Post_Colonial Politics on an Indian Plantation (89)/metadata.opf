@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">89</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d452faca-729d-4f17-86e3-8c806fe29f91</dc:identifier>
+        <dc:title>A Time for Tea: Women, Labor, and Post/Colonial Politics on an Indian Plantation</dc:title>
+        <dc:creator opf:file-as="Chatterjee, Piya, , ," opf:role="aut">Piya Chatterjee</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-03T11:56:48+00:00</dc:date>
+        <dc:description>“Piya Chatterjee presents an innovative ethnography of female tea plantation workers through a kaleidoscope of drama, personal narrative, labor history review, and the interrogations of her subjects. A Time for Tea addresses issues of colonial and postcolonial power structures, transnational flows, subaltern history, labor relations, and feminist ethnography. Tea does not taste the same after one has read this strikingly original book.”—Kirin Narayan, author of Storytellers, Saints, and Scoundrels: Folk Narrative in Hindu Religious Teaching
+
+“This is a finely layered, theoretically astute and informed cultural and historical account of a tea plantation in India. The ethnography is not content to address localized politics and culture; its importance lies in the way in which it reveals the global and political dimensions of local practices of gendered labor.”—Inderpal Grewal, author of Home and Harem: Nation, Gender, Empire, and the Cultures of Travel
+
+Table of Contents
+
+
+
+List of Illustrations  ix
+Acknowledgments  xi
+1. Alap  1
+2. Travels of Tea, Travels of Empire  20
+3. Cultivating the Garden  51
+4. The Raj Baroque  84
+5. Estates of a New Raj  115
+6. Discipline and Labor  168
+7. Village Politics  235
+8. Protest  289
+9. A Last Act  325
+Appendix  327
+Glossary  333
+Notes  335
+Bibliography  383
+Index  411</dc:description>
+        <dc:identifier opf:scheme="ARG">53b4fb0d334fe051a1d78dee.1</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Piya Chatterjee&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-07-03T11:57:13.090481+00:00" name="calibre:timestamp"/>
+        <meta content="Time for Tea: Women, Labor, and Post/Colonial Politics on an Indian Plantation, A" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

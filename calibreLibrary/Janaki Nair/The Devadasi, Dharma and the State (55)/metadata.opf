@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">55</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d284cde8-60a1-4464-90ef-3177b77fb906</dc:identifier>
+        <dc:title>The Devadasi, Dharma and the State</dc:title>
+        <dc:creator opf:file-as="Nair, Janaki, , ," opf:role="aut">Janaki Nair</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-03T11:55:38+00:00</dc:date>
+        <dc:description>If the sphere of the family was the one over which the nationalist elite declared their sovereignty, both reform and resistance toward reform in that domain were born of the antagonism between the coloniser and the colonised. However, in large princely states such as Mysore forms of state legality remained independent of this particular dynamic. The process of modernisation was initiated by the bureaucracy itself.
+
+This article delineates one aspect of this modernising process that signalled shifts in the definition of domestic and non-domestic sexuality, giving specific attention to the legal-administrativemeasures surrounding the gradualdisempowerment of devadasis attached to muzrai temples.</dc:description>
+        <dc:identifier opf:scheme="ARG">51c58bfe6c3a0eda0be07900.1</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Janaki Nair&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-07-03T11:57:11.533744+00:00" name="calibre:timestamp"/>
+        <meta content="Devadasi, Dharma and the State, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

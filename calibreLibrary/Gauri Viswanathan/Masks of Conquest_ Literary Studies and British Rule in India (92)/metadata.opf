@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">92</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3191615d-c8d3-49b0-9ce7-0646ae827892</dc:identifier>
+        <dc:title>Masks of Conquest: Literary Studies and British Rule in India</dc:title>
+        <dc:creator opf:file-as="Viswanathan, Gauri, , ," opf:role="aut">Gauri Viswanathan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-03T11:56:52+00:00</dc:date>
+        <dc:description>A classic work in postcolonial studies, Masks of Conquest describes the introduction of English studies in India under British rule and its function as an effective form of political control abetting voluntary cultural assimilation. Gauri Viswanathan demonstrates how the literary text functioned as a mirror of the ideal Englishman and became a mask of exploitation that camouflaged the material activities of the colonizing British government. In her new preface, she argues that the curricular study of English can no longer be understood innocently or inattentively to the deeper contexts of imperialism, transnationalism, and globalization in which the discipline first articulated its mission. Masks of Conquest illuminates the transcontinental movements and derivations of English studies, revealing the discipline's origins are as diffuse as its future shape.</dc:description>
+        <dc:identifier opf:scheme="ARG">53f8f599334fe05de658781d.1</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Gauri Viswanathan&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-07-03T11:57:13.191464+00:00" name="calibre:timestamp"/>
+        <meta content="Masks of Conquest: Literary Studies and British Rule in India" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

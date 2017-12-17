@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">93</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8d9398ab-8306-4e3c-8ca3-60134965256f</dc:identifier>
+        <dc:title>Citizenship and its Discontents: An Indian History</dc:title>
+        <dc:creator opf:file-as="Jayal, Niraja, Gopal, ," opf:role="aut">Niraja Gopal Jayal</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-03T11:56:52+00:00</dc:date>
+        <dc:description>Breaking new ground in scholarship, Niraja Jayal writes the first history of citizenship in the largest democracy in the world—India. Unlike the mature democracies of the west, India began as a true republic of equals with a complex architecture of citizenship rights that was sensitive to the many hierarchies of Indian society. In this provocative biography of the defining aspiration of modern India, Jayal shows how the progressive civic ideals embodied in the constitution have been challenged by exclusions based on social and economic inequality, and sometimes also, paradoxically, undermined by its own policies of inclusion.
+
+Citizenship and Its Discontents explores a century of contestations over citizenship from the colonial period to the present, analyzing evolving conceptions of citizenship as legal status, as rights, and as identity. The early optimism that a new India could be fashioned out of an unequal and diverse society led to a formally inclusive legal membership, an impulse to social and economic rights, and group-differentiated citizenship. Today, these policies to create a civic community of equals are losing support in a climate of social intolerance and weak solidarity. Once seen by Western political scientists as an anomaly, India today is a site where every major theoretical debate about citizenship is being enacted in practice, and one that no global discussion of the subject can afford to ignore.</dc:description>
+        <dc:identifier opf:scheme="ARG">53fb7ac6334fe05de6587931.1</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Niraja Gopal Jayal&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-07-03T11:57:13.289318+00:00" name="calibre:timestamp"/>
+        <meta content="Citizenship and its Discontents: An Indian History" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

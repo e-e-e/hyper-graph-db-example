@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">98</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">92ddef47-0021-4abb-a7ab-3522c09e328f</dc:identifier>
+        <dc:title>Ravi Arvind Palat Essay Collection</dc:title>
+        <dc:creator opf:file-as="Palat, Ravi, Arvind, ," opf:role="aut">Ravi Arvind Palat</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-03T11:56:57+00:00</dc:date>
+        <dc:description>Palat - A New Bandung - Economic Growth vs. Distributive Justice among Emerging Powers
+Palat - Area Studies after 9-11, Requiescat in Pace
+Palat - Barbarians at the Gate - Restructuring Asia's Pacific Rim after Crash of 1997-98
+Palat - Beyond Orientalism - Decolonizing Asian Studies
+Palat - Book Review - From the Ruins of Empire - The Intellectuals Who Remade Asia
+Palat - Book Review - The Indian Ideology
+Palat - Capitalist Restructuring and the Pacific Rim
+Palat - Convenient Fictions, Inconvenient Truths - A Comment on Öniş and Bayram
+Palat - Dependency Theory and World-Systems Analysis (Chapter 24 from A Companion to Global Historical Thought)
+Palat - Empire, Food and the Diaspora - Indian Restaurants in Britain
+Palat - 'Eyes Wide Shut' - Reconceptualizing the Asian Crisis
+Palat - Faruk Tabak (1954–2008)
+Palat - Flailing Eagle, Crouching Tigers - Decline of US Power and New Asian Regionalism
+Palat - Fragmented Visions - Excavating the Future of Area Studies in a Post-American World
+Palat - Is India Part of Asia
+Palat - Maps of Time, Clocks of Space - Changing Imaginaries of Asia
+Palat - Meditation on the Egyptian Bloodbath
+Palat - Miracles of the Day Before - The Great Asian Meltdown and the Changing World-Economy
+Palat - Much Ado about Nothing - World-Historical Implications of the Re-Emergence of China and India
+Palat - Nomads and Kings - State Formation in Asia over the Longue Durée, 1250–1700 (Chapter from The Longue Durée and World-Systems Analysis)
+Palat - On New Rules for Destroying Old Countries
+Palat - Pacific Century - Myth or Reality
+Palat - Popular Revolts and the State in Medieval South India - A Study of the Vijayanagara Empire (1360-1565)
+Palat - Power Pursuits - Interstate Systems in Asia
+Palat - Review -  The Postcolonial Aura - Third World Criticism in the Age of Global Capitalism
+Palat - Rise of the Global South and the Emerging Contours of a New World Order (Chapter 2 from Globalization and Emerging Societies - Development and Inequality)
+Palat - Spatial Imaginaries of Capitalism - Dynamics of the Northeast Asian Regional Order
+Palat - The Making of an Indian Ocean World-Economy, 1250–1650 - Princes, Paddy Fields, and Bazaars
+Palat - Up the Down Staircase - Australasia in the 'Pacific Century'
+Palat - Why European Air Space Was Closed to the Bolivian President
+Palat - World Turned Upside Down - Rise of the Global South and the Contemporary Global Financial Turbulence
+Palat and Keyder - Geopolitics and New Spatial Imaginaries - An IntroductionPalat and Martin - Asian Land Acquistions in Africa - Beyond the 'New Bandung' or a 'New Colonialism'
+Palat and Subrahmanyam - 'World-Economies' and South Asia, 1600-1750 - A Skeptical Note by Sanjay Subrahmanyam [with Reply]
+Palat et al - The Incorporation and Peripheralization of South Asia, 1600-1950
+Palat, Chhachhi and Kurian - Movement towards Workers' Democracy - Solidarity in Poland 1
+Palat, Chhachhi and Kurian - Movement towards Workers' Democracy - Solidarity in Poland 2
+Palat, Chhachhi and Kurian - Movement towards Workers' Democracy - Solidarity in Poland 3</dc:description>
+        <dc:identifier opf:scheme="ARG">57569e7e9ff37c3781f93492.1</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Ravi Arvind Palat&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-07-03T11:57:13.545219+00:00" name="calibre:timestamp"/>
+        <meta content="Ravi Arvind Palat Essay Collection" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

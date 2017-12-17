@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">90</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4f2030be-767f-447c-9eb1-94dbedbf4368</dc:identifier>
+        <dc:title>Violence: Ethnographic Encounters (Encounters: Experience and Anthropological Knowledge)</dc:title>
+        <dc:creator opf:file-as="Ghassem-Fachandi, Parvis, , ," opf:role="aut">Parvis Ghassem-Fachandi</dc:creator>
+        <dc:creator opf:file-as="Ghassem-Fachandi, Parvis, , ," opf:role="aut">Billie Jean Isbell</dc:creator>
+        <dc:creator opf:file-as="Ghassem-Fachandi, Parvis, , ," opf:role="aut">Diane E. King</dc:creator>
+        <dc:creator opf:file-as="Ghassem-Fachandi, Parvis, , ," opf:role="aut">Bilinda Straight</dc:creator>
+        <dc:creator opf:file-as="Ghassem-Fachandi, Parvis, , ," opf:role="aut">Kristen Drybread</dc:creator>
+        <dc:creator opf:file-as="Ghassem-Fachandi, Parvis, , ," opf:role="aut">Brenda Maiale</dc:creator>
+        <dc:creator opf:file-as="Ghassem-Fachandi, Parvis, , ," opf:role="aut">Natasha Zaretsky</dc:creator>
+        <dc:creator opf:file-as="Ghassem-Fachandi, Parvis, , ," opf:role="aut">John Borneman</dc:creator>
+        <dc:creator opf:file-as="Ghassem-Fachandi, Parvis, , ," opf:role="aut">Annarose Pandey</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-03T11:56:47+00:00</dc:date>
+        <dc:description>Violence takes many forms. From large-scale acts of terrorism to assaults on single individuals, violence is a defining force in shaping human experience and a central theme in anthropological study. Violence: Ethnographic Encounters presents a set of vivid first-hand accounts of fieldwork experiences of violence. The examples range across Latin America, Asia, the Middle East and Africa, and illustrate instances of state terror, insurgency, communal violence, war, prison violence, class conflict, security measures, and sexual violence.
+
+How do these anthropologists come to know a place through such violent experience? Why do they not leave such scenes? What insights follow from such experience? Violence: Ethnographic Encounters offers readers a broad anthropological study of violence through personal encounters.
+
+Table of Contents:
+Preface by John Borneman
+Introduction by Parvis Ghassem-Fachandi
+1 Written on My Body by Billie Jean Isbell
+2 Bandh in Ahmedabad by Parvis Ghassem-Fachandi
+3 Fieldwork and Fear in Iraqi Kurdistan by Diane E. King
+4 The Sense of War Songs by Bilinda Straight
+5 Sleeping with One Eye Open by Kristen Drybread
+6 Hell of a Party by Brenda Maiale
+7 Arriving in Jewish Buenos Aires by Natasha Zaretsky
+8 Dreamwork and Punishment in Lebanon by John Borneman
+9 Unwelcomed and Unwelcoming Encounter by Annarose Pandey
+10 Guide to Further Reading by Parvis Ghassem-Fachandi</dc:description>
+        <dc:identifier opf:scheme="ARG">53b4fdd1334fe051a1d78df5.1</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Diane E. King&quot;: &quot;&quot;, &quot;Kristen Drybread&quot;: &quot;&quot;, &quot;Brenda Maiale&quot;: &quot;&quot;, &quot;Bilinda Straight&quot;: &quot;&quot;, &quot;John Borneman&quot;: &quot;&quot;, &quot;Natasha Zaretsky&quot;: &quot;&quot;, &quot;Annarose Pandey&quot;: &quot;&quot;, &quot;Parvis Ghassem-Fachandi&quot;: &quot;&quot;, &quot;Billie Jean Isbell&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-07-03T11:57:13.116492+00:00" name="calibre:timestamp"/>
+        <meta content="Violence: Ethnographic Encounters (Encounters: Experience and Anthropological Knowledge)" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

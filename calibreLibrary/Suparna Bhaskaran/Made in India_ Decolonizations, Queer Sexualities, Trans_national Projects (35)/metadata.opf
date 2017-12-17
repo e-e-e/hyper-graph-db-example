@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f106ac92-552f-40ed-b105-2fbd70eb20d8</dc:identifier>
+        <dc:title>Made in India: Decolonizations, Queer Sexualities, Trans/national Projects</dc:title>
+        <dc:creator opf:file-as="Bhaskaran, Suparna, , ," opf:role="aut">Suparna Bhaskaran</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-03T11:56:11+00:00</dc:date>
+        <dc:description>Made In India explores the making of "queer" and "heterosexual" consciousness and identities in light of economic privatization, global condom enterprises, sexuality-focused NGOs, the Bollywood-ization of beauty contests, and trans/national activism. In examining seemingly disparate and high profile events in post/neo colonial India, since the 1990s, Made In India demonstrates the relationships between identity formation and the political economy of trans/national sexualities. These events demonstrate the material, political, and cultural contexts within which postcolonial subjects negotiate their lived experiences within moments of decolonization and recolonization. Bhaskaran's unique analysis makes Made in India an important addition to postcolonial studies, gender studies, and diaspora studies courses.</dc:description>
+        <dc:identifier opf:scheme="ARG">51c58bfe6c3a0eda0b328300.1</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Suparna Bhaskaran&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-07-03T11:57:10.816921+00:00" name="calibre:timestamp"/>
+        <meta content="Made in India: Decolonizations, Queer Sexualities, Trans/national Projects" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

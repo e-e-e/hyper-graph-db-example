@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">50</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e24b1d85-6e6f-454c-bf8a-17cfeb947855</dc:identifier>
+        <dc:title>Age of Human Rights</dc:title>
+        <dc:creator opf:file-as="Baxi, Upendra, , ," opf:role="aut">Upendra Baxi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-03T11:56:05+00:00</dc:date>
+        <dc:description>No preceding century in human history has been privileged to witness such a profusion of human rights enunciations on a global scale. Never before have the languages of human rights sought to supplant other ethical languages. No previous century has witnessed the proliferation of endless normativity of human rights standards as a core aspect of the politics of inter governmental desire. Never before has this discourse been so varied and diverse: that it becomes necessary to regularly publish and update, through the unique discursive instrumencality of the United Nations system, in ever-exploding volumes of fine print, the various texts of instruments relating to human rights</dc:description>
+        <dc:identifier opf:scheme="ARG">51c58bfe6c3a0eda0bd47a00.1</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Upendra Baxi&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-07-03T11:57:11.387372+00:00" name="calibre:timestamp"/>
+        <meta content="Age of Human Rights" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

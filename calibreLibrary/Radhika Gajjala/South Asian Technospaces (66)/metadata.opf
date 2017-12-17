@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">66</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">55989c08-10fc-4ee9-a5cc-334355b140b2</dc:identifier>
+        <dc:title>South Asian Technospaces</dc:title>
+        <dc:creator opf:file-as="Gajjala, Radhika, Gajjala and Venkataramana, ," opf:role="aut">Radhika Gajjala</dc:creator>
+        <dc:creator opf:file-as="Gajjala, Radhika, Gajjala and Venkataramana, ," opf:role="aut">Venkataramana Gajjala</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-03T11:56:27+00:00</dc:date>
+        <dc:description>This book provides perspectives on how South Asian—often, more specifically, Indian—diasporas inhabit techno-mediated environments through their economic and socio-cultural activities. The themes examined include religion, caste, language, and gender in online communities and call centers, and the roles of these factors in the global economy, Bollywood online and offline, digital music, websites for arranging marriages, and so on. The book attempts to map "South Asia" in relation to global technospaces produced through and as a consequence of economic globalization efforts.</dc:description>
+        <dc:identifier opf:scheme="ARG">51c58cf66c3a0edb0be30f00.1</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Radhika Gajjala&quot;: &quot;&quot;, &quot;Venkataramana Gajjala&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-07-03T11:57:11.970266+00:00" name="calibre:timestamp"/>
+        <meta content="South Asian Technospaces" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">29</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">562fd207-edac-4ec5-9a54-ba569f606661</dc:identifier>
+        <dc:title>Sarai Reader 08: Fear</dc:title>
+        <dc:creator opf:file-as="Collective, Sarai, Editorial, ," opf:role="aut">Sarai Editorial Collective</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-03T11:56:00+00:00</dc:date>
+        <dc:description>[http://www.sarai.net/publications/readers/08-fear][1]  
+Fear aims to question how fear and anxiety shape individual and collective dispositions, how lives and social processes are designed around and against them, and what effects they have on our politics and our economy. It is especially interested in fear as language, as mode of communication, as a way of ordering and rendering the world.  
+Edited by: Monica Narula, Shuddhabrata Sengupta and Jeebesh Bagchi  
+Assistant Editor: Shyama Haldar Kilpady  
+Sarai Reader Editorial Collective: Monica Narula, Shuddhabrata Sengupta, Ravi Sundaram, Ravi Vasudevan, Awadhendra Sharan and Jeebesh Bagchi  
+[http://www.sarai.net/publications/sarai.txt/][2]  
+CONTENTS:  
+PART 1: FACING FEAR  
+1. Ventilator by Ivana Franke  
+2. Fear Is a Hieroglyph Fractal Repeated on Different Scales by Claudia Roselli  
+3. Temporary Authoritarian Zone by John Armitage  
+4. Politics, the State and the Tragedy of Fear: Connected Fragments from Europe to South Asia by Atul Mishra  
+5. Symptomatic Values beyond the Romantic by Markus Miessen  
+6. fear/fIr / ll/fIe(r)/ n. uncountable or countable by Andrés de Santiago Areizaga  
+7. Just Fear Not Just Reason by Rahul Govind  
+8. Industrial Landscapes by Media Lab, Jadavpur University  
+PART 2: SCARE QUOTES  
+9. Who’s Afraid of Voting? The Inexpressible Nature of Some Fears by Subuhi Juwani  
+10. My Fear Begins Where Your Fear Ends by Ambarien Alqadar  
+11. When a People Settle/Re-Settle… by Zainab Bawa  
+12. The Cow Ate It Up by Amitabh Kumar  
+PART 3: AFRAID ATLAS  
+13. Bethlehem by Jonathan Watkins  
+14. Otondro Prohori Guarding Who? Against What? by Naeem Mohaiemen  
+15. Conversation on Locating Conflict by Nanna Heidenreich and Nicole Wolf  
+16. Dirt and Dust: A Lover’s Letter by F. Zahir Mibineh  
+17. Within the Circle of Fear: Field Notes from Iraqi Kurdistan by Francesca Recchia  
+18. Fear Yourself More than the Other by Agon Hamza  
+19. On Idealists and Realists: A Memory of Fear, Silence and the 1990s Yugoslav Wars by Maja Petrović-Šteger  
+20. Graves: Buried Evidence from Kashmir by Angana P. Chatterji, Parvez Imroz, Gautam Navlakha, Zahir-Ud-Din, Mihir Desai, Khurram Parvez  
+21. Fear, Sexuality and the Future: Thinking Sex (Panic), Monstrosity and Prostitution by Svati P. Shah  
+22. Police States, Anthropology and Human Rights by Nandini Sundar  
+PART 4: UNPARALYSIS  
+23. On the Usefulness of Anxiety: Two Evil Media Stratagems by Matthew Fuller and Andrew Goffey  
+24. Three Miles from Anarchy: Managerial Fear and the Affective Factory by Jamie Cross  
+25. Data Sphere by Adnan Hadzi  
+26. Factoring Fear: Investigations into Media(ted) Fear by Sandhya Devesan Nambiar  
+27. Fear in Neo-Kaliyuga: Epistemic Troubles in Techno-Smrti Times by Kaushik Bhaumik  
+28. Changing Scenes by Moinak Biswas  
+PART 5: DISQUIET  
+29. The Apparel of Anxiety: Three Artefacts of Fear and Fashion by Aarti Sethi  
+30. Feared Body by Agat Sharma  
+31. The Ninth and Final Ode to Life by Nupur Jain  
+32. Nine Pages around Disquiet by Priya Sen  
+33. Radiosity: A SHORT PHILOSOPHICAL NOVEL by Roberto Cavallini  
+34. Fear, Inequity and Time: A Sketch of How Art Answers the World’s Questions by Raqs Media Collective  
+PART 6: SCARED ON SCREEN  
+35. A Reply to Terrorism on a Wednesday: A Citizen Vigilante’s Prescriptions for Governing Terrorism by Rahul Mukherjee  
+36. Myth, Legend, Conspiracy: Urban Terror in Aamir and Delhi-6 by Kuhu Tanvir  
+37. Fear on Film: The Ramsay Brothers and Bombay’s Horror Cinema by Kartik Nair  
+38. “I Swear It’s Not a Cow...” The Eerie Glow of Television Screens in America’s Heartland. by Angela Anderson  
+PART 7: IN CONVERSATION  
+39. From Anxiety to Enthusiasm by Slavoj Zizek in conversation with Shuddhabrata Sengupta  
+40. Without Fear or Favour by Ashis Nandy in conversation with Shuddhabrata Sengupta  
+PART 8: ALT/OPTION  
+41. Fearless Speech, Fearless Listening by Cybermohalla Ensemble
+
+ [1]: http://www.sarai.net/publications/readers/08-fear "http://www.sarai.net/publications/readers/08-fear"
+ [2]: http://www.sarai.net/publications/sarai.txt/ "http://www.sarai.net/publications/sarai.txt/"</dc:description>
+        <dc:identifier opf:scheme="ARG">51c5856f6c3a0e090c9c1200.1</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Sarai Editorial Collective&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-07-03T11:57:10.690664+00:00" name="calibre:timestamp"/>
+        <meta content="Sarai Reader 08: Fear" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

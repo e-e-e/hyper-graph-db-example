@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">68</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0c58daf1-4a77-4cfe-965e-255d7da350ac</dc:identifier>
+        <dc:title>The World of Homosexuals</dc:title>
+        <dc:creator opf:file-as="Devi, Shakuntala, , ," opf:role="aut">Shakuntala Devi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-03T11:55:29+00:00</dc:date>
+        <dc:description>The book is a remarkable, personal and yet scholarly study undertaken by the most unlikely person - Shakuntala Devi, better known as a mathematician. Some speculate about the personal reasons including that her husband might have been a homosexual that caused her to be sympathetic to the cause and plight of homosexual men in India. Whatever the reasons, this slim book is possibly the first serious account that attempts to be comprehensive about homosexuals in India.  
+“Perhaps I shall be labelled a heterosexual writer embarking on a voyeuristic tour of the homosexual world. But such is not my intention. I do, however, agree that the best social analysis grows out of personal experience, but then experience without analysis is equally insufficient.” - Shakuntala Devi</dc:description>
+        <dc:identifier opf:scheme="ARG">51c58dd26c3a0ec111101a00.1</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Shakuntala Devi&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-07-03T11:57:12.135765+00:00" name="calibre:timestamp"/>
+        <meta content="World of Homosexuals, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

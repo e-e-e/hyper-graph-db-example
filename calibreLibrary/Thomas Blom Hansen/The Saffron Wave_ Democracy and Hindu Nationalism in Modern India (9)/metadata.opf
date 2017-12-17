@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8b8e8cf3-7efb-4f82-aa62-b4a3a4901039</dc:identifier>
+        <dc:title>The Saffron Wave: Democracy and Hindu Nationalism in Modern India</dc:title>
+        <dc:creator opf:file-as="Hansen, Thomas, Blom, ," opf:role="aut">Thomas Blom Hansen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-03T11:55:40+00:00</dc:date>
+        <dc:identifier opf:scheme="ARG">51c584186c3a0ed90b450900.1</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Thomas Blom Hansen&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-07-03T11:57:10.065608+00:00" name="calibre:timestamp"/>
+        <meta content="Saffron Wave: Democracy and Hindu Nationalism in Modern India, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

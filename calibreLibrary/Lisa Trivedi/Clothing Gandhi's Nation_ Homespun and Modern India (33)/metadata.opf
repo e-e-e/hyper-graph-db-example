@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">05d3975a-10ab-45ce-802c-f562f57e5064</dc:identifier>
+        <dc:title>Clothing Gandhi's Nation: Homespun and Modern India</dc:title>
+        <dc:creator opf:file-as="Trivedi, Lisa, , ," opf:role="aut">Lisa Trivedi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-03T11:56:01+00:00</dc:date>
+        <dc:description>In Clothing Gandhi's Nation, Lisa Trivedi explores the making of one of modern India's most enduring political symbols, khadi: a homespun, home-woven cloth. The image of Mohandas K. Gandhi clothed simply in a loincloth and plying a spinning wheel is familiar around the world, as is the sight of Gandhi, Jawaharlal Nehru, and other political leaders dressed in "Gandhi caps" and khadi shirts. Less widely understood is how these images associate the wearers with the swadeshi movement--which advocated the exclusive consumption of indigenous goods to establish India's autonomy from Great Britain--or how khadi was used to create a visual expression of national identity after Independence. Trivedi brings together social history and the study of visual culture to account for khadi as both symbol and commodity. Written in a clear narrative style, the book provides a cultural history of important and distinctive aspects of modern Indian history.</dc:description>
+        <dc:identifier opf:scheme="ARG">51c58bfe6c3a0eda0b077a00.1</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Lisa Trivedi&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-07-03T11:57:10.776604+00:00" name="calibre:timestamp"/>
+        <meta content="Clothing Gandhi's Nation: Homespun and Modern India" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

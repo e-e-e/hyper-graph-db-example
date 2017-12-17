@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">72fab281-b99a-455d-a7e9-23042ea78cad</dc:identifier>
+        <dc:title>Enlightenment in the Colony: The Jewish Question and the Crisis of Postcolonial Culture</dc:title>
+        <dc:creator opf:file-as="Mufti, Aamir, R., ," opf:role="aut">Aamir R. Mufti</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-03T11:55:50+00:00</dc:date>
+        <dc:description>Prologue  
+Towards a Genealogy of Postcolonial Secularism 1  
+Part I Emergence: Europe and Its Others  
+Chapter One  
+Jewishness as Minority  
+Emergence of a European Problematic 37  
+Chapter Two  
+Inscriptions of Minority in British Late Imperial Culture  
+From Daniel Deronda to A Passage to India 91  
+Part II Displacements: On the Verge of India  
+Chapter Three  
+Jawaharlal Nehru and Abul Kalam Azad  
+Discovering India 129  
+Chapter Four  
+Saadat Hasan Manto  
+A Greater Story Writer Than God 177  
+Chapter Five  
+Faiz Ahmed Faiz  
+Towards a Lyric History of India 210  
+Epilogue  
+In My Beginning Is My End  
+Jewish Exile and the Language of English India 244</dc:description>
+        <dc:identifier opf:scheme="ARG">51c5856f6c3a0e090cd40c00.1</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Aamir R. Mufti&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-07-03T11:57:10.734199+00:00" name="calibre:timestamp"/>
+        <meta content="Enlightenment in the Colony: The Jewish Question and the Crisis of Postcolonial Culture" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

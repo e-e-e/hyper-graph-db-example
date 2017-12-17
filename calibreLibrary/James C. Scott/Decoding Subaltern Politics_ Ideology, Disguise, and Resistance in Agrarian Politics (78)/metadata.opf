@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">78</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2e55db69-8522-410c-824c-006577c4f14b</dc:identifier>
+        <dc:title>Decoding Subaltern Politics: Ideology, Disguise, and Resistance in Agrarian Politics</dc:title>
+        <dc:creator opf:file-as="Scott, James, C., ," opf:role="aut">James C. Scott</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-03T11:56:32+00:00</dc:date>
+        <dc:description>The book covers three distinct yet interlinked bodies of work. The first lays out a framework for understanding peasant politics and rebellion, much of which is applicable to rural areas of the contemporary global south. Scott then goes on to develop his arguments regarding everyday forms of peasant resistance using the comparative example of the religious tithe in France and Malaysia, and tracing the forms of resistance that cover their own tracks and avoid direct clashes with authorities. For much of the world’s population, and for most of its history, this sort of politics was far more common than the violent clashes that dominate the history books, and in this book one can examine the anatomy of such resistance in rich comparative detail. Finally, Scott explores how the state’s increasing grip on its population: its identity, land-holding, income, and movements, is a precondition for political hegemony. Crucially, in examining the invention of state-mandated legal identities, especially, the permanent patronym and the vagaries of its imposition on vernacular life, Scott lays bare the micro-processes of state-formation and resistance.
+
+Written by one of the leading social theorists of our age, Decoding Subaltern Politics: Ideology, Disguise, and Resistance in Agrarian Politics is an indispensible guide to the study of subaltern culture and politics and is essential reading for political scientists, anthropologists, sociologists and historians alike.</dc:description>
+        <dc:identifier opf:scheme="ARG">51e92e8e307888b30c0001c6.1</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;James C. Scott&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-07-03T11:57:12.662006+00:00" name="calibre:timestamp"/>
+        <meta content="Decoding Subaltern Politics: Ideology, Disguise, and Resistance in Agrarian Politics" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

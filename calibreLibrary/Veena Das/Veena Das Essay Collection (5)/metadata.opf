@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7a6bfd6a-6811-478d-bd0f-996c77378bd0</dc:identifier>
+        <dc:title>Veena Das Essay Collection</dc:title>
+        <dc:creator opf:file-as="Das, Veena, , ," opf:role="aut">Veena Das</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-03T11:55:45+00:00</dc:date>
+        <dc:description>Das - Anthropological Knowledge and Collective Violence - The Riots in Delhi, November 1984  
+Das - Christianity and World Religions - A Response  
+Das - Commentary - Trauma and Testimony - Between Law and Discipline  
+Das - Dislocation and Rehabilitation - Defining a Field  
+Das - For a Folk-Theology and Theological Anthropology of Islam  
+Das - Human Rights and Changing Definitions of Warfare  
+Das - Language and Body - Transactions in the Construction of Pain  
+Das - Language of Sacrifice  
+Das - Modernity and Biography - Women's Lives in Contemporary India  
+Das - Official Narratives, Rumour, and the Social Production of Hate  
+Das - Public Good, Ethics, and Everyday Life - Beyond the Boundaries of Bioethics  
+Das - Sexual Violence, Discursive Formations and the State  
+Das - Sociological Research in India - The State of Crisis  
+Das - Specificities - Official Narratives, Rumour, and the Social Production of Hate  
+Das - Sufferings, Theodicies, Disciplinary Practices, Appropriations  
+Das - The Anthropology of Violence and the Speech of Victims  
+Das - The Structure of Marriage Preferences - An Account from Pakistani Fiction  
+Das - Time, Self, and Community - Features of the Sikh Militant Discourse  
+Das - Trauma and Testimony - Implications for Political Community  
+Das - Violence and Translation  
+Das - Violence, Gender, and Subjectivity  
+Das - Voices of Children  
+Das - Wittgenstein and Anthropology  
+Das and Addlakha - Disability and Domestic Citizenship - Voice, Gender, and the Making of the Subject  
+Das and Cushman - A Conversation on Religion and Violence with Veena Das  
+Das and Dasgupta - Scientific and Political Representations - Cholera Vaccine in India  
+Das and Nandy - Violence, Victimhood, and the Language of Silence  
+Das, Das and Coutinho - Disease Control and Immunisation - A Sociological Enquiry</dc:description>
+        <dc:identifier opf:scheme="ARG">51c584176c3a0ed90bdc0500.1</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Veena Das&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-07-03T11:57:09.985456+00:00" name="calibre:timestamp"/>
+        <meta content="Veena Das Essay Collection" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

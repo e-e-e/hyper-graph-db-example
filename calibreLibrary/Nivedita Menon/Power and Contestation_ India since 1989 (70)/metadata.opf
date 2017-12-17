@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">70</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0be872ef-da01-4670-a52e-7d9f390548ee</dc:identifier>
+        <dc:title>Power and Contestation: India since 1989</dc:title>
+        <dc:creator opf:file-as="Menon, Nivedita, , ," opf:role="aut">Nivedita Menon</dc:creator>
+        <dc:creator opf:file-as="Menon, Nivedita, , ," opf:role="aut">Aditya Nigam</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-03T11:56:29+00:00</dc:date>
+        <dc:description>This book is the ideal introduction to India's complex internal histories and external power relations since 1989, a date which marks the unraveling of India's post-independence "Nehruvian Consensus" around the idea of a self-reliant modern, secular state. While global economic integration has led to conflict between the state and dispossessed people, it has also enabled new spaces for political assertion, such as around sexuality. Older challenges to the state continue in Kashmir and the North-East, while Maoist insurgency has deepened its bases. In a world of American Empire, India as a nuclear power has abandoned non-alignment, a shift that is contested by voices within. Power and Contestation shows that the turbulence and turmoil of this period are signs of India's continued vibrancy and democracy.</dc:description>
+        <dc:identifier opf:scheme="ARG">51c58dd26c3a0ec111320d00.1</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Nivedita Menon&quot;: &quot;&quot;, &quot;Aditya Nigam&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-07-03T11:57:12.176021+00:00" name="calibre:timestamp"/>
+        <meta content="Power and Contestation: India since 1989" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

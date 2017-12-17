@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fb6e4973-2ebe-4c57-82f4-dfbff246e36c</dc:identifier>
+        <dc:title>The Emergence of the Political Subject</dc:title>
+        <dc:creator opf:file-as="Samaddar, Ranabir, , ," opf:role="aut">Ranabir Samaddar</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-03T11:56:22+00:00</dc:date>
+        <dc:description>This book is on the political subject, the conditions of its emergence, and the theoretical implications of this emergence, particularly those for our history. It seeks to change the way in which we understand our modern political history and the way inquiries are conducted into political life, truth and collective existence. The book is not only marked by dense, contentious and varying histories of turbulent political moments in our recent past, but also presents a startling picture of the emergence of the political subject, which has been repeatedly sought to be brought under submission, but which has resisted all such attempts and has instead emerged as a mark of autonomy and agency in life.
+
+Emergence of the Political Subject discusses substantial philosophical interventions to demonstrate why we need less of western political theories and philosophies to understand colonial and post-colonial political life. Instead, we need appreciation of political actions and a different way of analysing them. As against power, it is resistance; against domination, it is desire; against rule, it is friendship; against sovereign authority, it is bare body; against the ‘culture of self’ it is subject-hood—one can find in the story of the emergence of the political subject the overturning of the established world of knowledge. The work contains some fascinating accounts of the dialogic practices which it weaves into a critical theory of politics.
+
+This book will leave a lasting impact on the way we see politics, history of our democracy, transformation, masses and their agency, and will be useful to the world of academia, especially those engaged in the discipline of political science, history and philosophy.</dc:description>
+        <dc:identifier opf:scheme="ARG">51c58bfe6c3a0eda0ba97e00.1</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Ranabir Samaddar&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-07-03T11:57:11.062393+00:00" name="calibre:timestamp"/>
+        <meta content="Emergence of the Political Subject, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

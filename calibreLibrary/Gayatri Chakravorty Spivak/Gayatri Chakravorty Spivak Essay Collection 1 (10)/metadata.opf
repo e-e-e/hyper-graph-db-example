@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d8ad220c-2c59-4369-93bb-f33f70a95d2e</dc:identifier>
+        <dc:title>Gayatri Chakravorty Spivak Essay Collection 1</dc:title>
+        <dc:creator opf:file-as="Spivak, Gayatri, Chakravorty, ," opf:role="aut">Gayatri Chakravorty Spivak</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-03T11:56:10+00:00</dc:date>
+        <dc:description>Spivak - A Note on the New International  
+Spivak - Acting Bits-Identity Talk  
+Spivak - Can the Subaltern Speak  
+Spivak - Civilization Folded Back - Poems by Stanley Diamond  
+Spivak - Constitutions and Culture Studies  
+Spivak - 'Draupadi' by Mahasveta Devi  
+Spivak - Echo  
+Spivak - Ethics and Politics in Tagore, Coetzee, and Certain Scenes of Teaching  
+Spivak - Europe and Its Others  
+Spivak - Excelsior Hotel Coffee Shop, New York, September 13, 1:07pm.  
+Spivak - Feminism 2000 - One Step beyond  
+Spivak - Finding Feminist Readings - Dante-Yeats  
+Spivak - French Feminism in an International Frame  
+Spivak - Ghostwriting  
+Spivak - Globalicities - Terror and Its Consequences  
+Spivak - Harlem  
+Spivak - In Praise of Sammy and Rosie Get Laid  
+Spivak - Learning from de Man - Looking Back  
+Spivak - Love Me, Love My Ombre, Elle  
+Spivak - M̶e̶g̶a̶c̶i̶t̶y̶  
+Spivak - Moving Devi  
+Spivak - Not Virgin Enough to Say that [S]He Occupies the Place of the Other  
+Spivak - Notes toward a Tribute to Jacques Derrida  
+Spivak - 'Principles of the Mind' - Continuity in Yeats's Poetry  
+Spivak - Questioned on Translation - Adrift  
+Spivak - Reading The Satanic Verses  
+Spivak - Reading the World - Literary Studies in the 80s  
+Spivak - Response - Panel of Papers on Critique of Postcolonial Reason  
+Spivak - Responsibility  
+Spivak - Review - Glas-Piece - A Compte Rendu  
+Spivak - Review - Revolutions That as Yet Have No Model - Derrida's Limited Inc  
+Spivak - Righting Wrongs  
+Spivak - Scattered Speculations on the Question of Value</dc:description>
+        <dc:identifier opf:scheme="ARG">51c584186c3a0ed90b631000.1</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Gayatri Chakravorty Spivak&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-07-03T11:57:10.126626+00:00" name="calibre:timestamp"/>
+        <meta content="Gayatri Chakravorty Spivak Essay Collection 1" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

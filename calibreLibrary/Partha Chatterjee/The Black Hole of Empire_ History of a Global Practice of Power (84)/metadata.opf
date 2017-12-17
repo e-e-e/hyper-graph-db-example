@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">84</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">80722c93-b600-46ac-86c7-761a3049b73e</dc:identifier>
+        <dc:title>The Black Hole of Empire: History of a Global Practice of Power</dc:title>
+        <dc:creator opf:file-as="Chatterjee, Partha, , ," opf:role="aut">Partha Chatterjee</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-03T11:56:32+00:00</dc:date>
+        <dc:description>When Siraj, the ruler of Bengal, overran the British settlement of Calcutta in 1756, he allegedly jailed 146 European prisoners overnight in a cramped prison. Of the group, 123 died of suffocation. While this episode was never independently confirmed, the story of "the black hole of Calcutta" was widely circulated and seen by the British public as an atrocity committed by savage colonial subjects. The Black Hole of Empire follows the ever-changing representations of this historical event and founding myth of the British Empire in India, from the eighteenth century to the present. Partha Chatterjee explores how a supposed tragedy paved the ideological foundations for the "civilizing" force of British imperial rule and territorial control in India.
+
+Chatterjee takes a close look at the justifications of modern empire by liberal thinkers, international lawyers, and conservative traditionalists, and examines the intellectual and political responses of the colonized, including those of Bengali nationalists. The two sides of empire's entwined history are brought together in the story of the Black Hole memorial: set up in Calcutta in 1760, demolished in 1821, restored by Lord Curzon in 1902, and removed in 1940 to a neglected churchyard. Challenging conventional truisms of imperial history, nationalist scholarship, and liberal visions of globalization, Chatterjee argues that empire is a necessary and continuing part of the history of the modern state.</dc:description>
+        <dc:identifier opf:scheme="ARG">52176449307888af0a00022c.1</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Partha Chatterjee&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-07-03T11:57:12.787181+00:00" name="calibre:timestamp"/>
+        <meta content="Black Hole of Empire: History of a Global Practice of Power, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

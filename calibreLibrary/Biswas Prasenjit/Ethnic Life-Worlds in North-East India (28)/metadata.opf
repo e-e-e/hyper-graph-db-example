@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2b6f6a8c-c2b1-46a4-a5a1-e77674293032</dc:identifier>
+        <dc:title>Ethnic Life-Worlds in North-East India</dc:title>
+        <dc:creator opf:file-as="Prasenjit, Biswas, , ," opf:role="aut">Biswas Prasenjit</dc:creator>
+        <dc:creator opf:file-as="Prasenjit, Biswas, , ," opf:role="aut">Suklabaidya Chandan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-03T11:55:51+00:00</dc:date>
+        <dc:identifier opf:scheme="ARG">51c5856f6c3a0e090c580200.1</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Suklabaidya Chandan&quot;: &quot;&quot;, &quot;Biswas Prasenjit&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-07-03T11:57:10.583939+00:00" name="calibre:timestamp"/>
+        <meta content="Ethnic Life-Worlds in North-East India" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">59</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">14c81fbf-720e-4072-8fa6-39dde470fef2</dc:identifier>
+        <dc:title>Porn: Law, video, technology</dc:title>
+        <dc:creator opf:file-as="Malhotra, Namita, Avriti, ," opf:role="aut">Namita Avriti Malhotra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-03T11:56:30+00:00</dc:date>
+        <dc:description>Amateur video pornography marks the digital and post celluloid moment, and is drenched in affect that is about but also beyond the enjoyment of what is taboo, in the Indian context. The monograph looks at practices around pornography and video, in the digital and Internet 'age'.</dc:description>
+        <dc:identifier opf:scheme="ARG">51c58cf66c3a0edb0b1c0200.1</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Namita Avriti Malhotra&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-07-03T11:57:11.656679+00:00" name="calibre:timestamp"/>
+        <meta content="Porn: Law, video, technology" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

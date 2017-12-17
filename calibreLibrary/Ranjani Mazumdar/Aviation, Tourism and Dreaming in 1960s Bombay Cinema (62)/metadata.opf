@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">62</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">46f4a69e-9b27-4e4f-91c8-a40b750c506a</dc:identifier>
+        <dc:title>Aviation, Tourism and Dreaming in 1960s Bombay Cinema</dc:title>
+        <dc:creator opf:file-as="Mazumdar, Ranjani, , ," opf:role="aut">Ranjani Mazumdar</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-03T11:56:28+00:00</dc:date>
+        <dc:description>In the history of Bombay cinema, the 1960s is a peculiar world marked by a reworking of nationalist anxieties, sovereignty, the place of the woman, and the world of location and mobility. India’s defeat in the border war against China in 1962 jolted the Nehruvian consensus of the 1950s. This was followed by food shortages, currency crisis, and the eventual turn to the United States (US) for grants to purchase food grain. It was as if the vast control regime set up in the 1950s, whose most visible signs were the Five-Year Plans, national sovereignty, and self-sustainability, started to crack. The wild abandonment of the 1960s seemed to lift this mood for the middle class, acknowledging their dreams of travel. This article returns to the cinema of the 1960s to track both the opening of the global and a fascination with urban infrastructure, tourism, fashion, and consumption. The arrival of color, the widespread circulation of travel imagery, the promotion of railway tourism, and the explosion in aviation congealed in creating a kind of cinematic tourism that was unique in the history of Bombay cinema. Many of these films traveled to spectacular global cities like Paris, Tokyo, London, Rome, and Beirut (An Evening in Paris, Sangam, Love in Tokyo, Around the World). Through this mobility the films encountered the global currents of the 1960s and also played out anxieties around questions of love, marriage, and erotic desire.</dc:description>
+        <dc:identifier opf:scheme="ARG">51c58cf66c3a0edb0b691200.1</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Ranjani Mazumdar&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-07-03T11:57:11.834068+00:00" name="calibre:timestamp"/>
+        <meta content="Aviation, Tourism and Dreaming in 1960s Bombay Cinema" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">77c08e6b-3cfa-430a-b1f9-06028fcab863</dc:identifier>
+        <dc:title>Gyanendra Pandey Essays Collection</dc:title>
+        <dc:creator opf:file-as="Pandey, Gyanendra, , ," opf:role="aut">Gyanendra Pandey</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-03T11:55:45+00:00</dc:date>
+        <dc:description>Pandey - Can a Muslim Be an Indian  
+Pandey - Can There Be a Subaltern Middle Class - Notes on African American and Dalit History  
+Pandey - Community and Violence - Recalling Partition  
+Pandey - In Defense of the Fragment - Writing about Hindu-Muslim Riots in India Today (EPW)  
+Pandey - In Defense of the Fragment - Writing about Hindu-Muslim Riots in India Today (R)  
+Pandey - India and Pakistan, 1947-2002  
+Pandey - Liberalism and Study of Indian History  
+Pandey - Modes of History Writing - New Hindu History of Ayodhya  
+Pandey - Notions of Community - Popular and Subaltern  
+Pandey - Partition and Independence in Delhi - 1947-48  
+Pandey - Questions of Nationalism and Communalism  
+Pandey - Subaltern Citizens and Their Histories  
+Pandey - The Bigoted Julaha  
+Pandey - The Subaltern as Subaltern Citizen  
+Pandey - The Time of Dalit Conversion</dc:description>
+        <dc:identifier opf:scheme="ARG">51c584186c3a0ed90b661000.1</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Gyanendra Pandey&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-07-03T11:57:10.165208+00:00" name="calibre:timestamp"/>
+        <meta content="Gyanendra Pandey Essays Collection" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

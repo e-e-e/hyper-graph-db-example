@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ae417bc4-4b6d-4cb6-9c87-90a012645199</dc:identifier>
+        <dc:title>The Nation and its Fragments: Colonial and Postcolonial Histories</dc:title>
+        <dc:creator opf:file-as="Chatterjee, Partha, , ," opf:role="aut">Partha Chatterjee</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-03T11:56:57+00:00</dc:date>
+        <dc:description>In this book, the prominent theorist Partha Chatterjee looks at the creative and powerful results of the nationalist imagination in Asia and Africa that are posited not on identity but on difference with the nationalism propagated by the West. Arguing that scholars have been mistaken in equating political nationalism with nationalism as such, he shows how anticolonialist nationalists produced their own domain of sovereignty within colonial society well before beginning their political battle with the imperial power. These nationalists divided their culture into material and spiritual domains, and staked an early claim to the spiritual sphere, represented by religion, caste, women and the family, and peasants. Chatterjee shows how middle-class elites first imagined the nation into being in this spiritual dimension and then readied it for political contest, all the while "normalizing" the aspirations of the various marginal groups that typify the spiritual sphere.
+
+While Chatterjee's specific examples are drawn from Indian sources, with a copious use of Bengali language materials, the book is a contribution to the general theoretical discussion on nationalism and the modern state. Examining the paradoxes involved with creating first a uniquely non-Western nation in the spiritual sphere and then a universalist nation-state in the material sphere, the author finds that the search for a postcolonial modernity is necessarily linked with past struggles against modernity.</dc:description>
+        <dc:identifier opf:scheme="ARG">51c58bfe6c3a0eda0bcf7f00.1</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Partha Chatterjee&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-07-03T11:57:11.262868+00:00" name="calibre:timestamp"/>
+        <meta content="Nation and its Fragments: Colonial and Postcolonial Histories, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

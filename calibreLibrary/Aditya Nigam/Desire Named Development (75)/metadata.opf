@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">75</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">92ef0287-c46a-446b-87f9-707a99bf4e22</dc:identifier>
+        <dc:title>Desire Named Development</dc:title>
+        <dc:creator opf:file-as="Nigam, Aditya, , ," opf:role="aut">Aditya Nigam</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-03T11:56:37+00:00</dc:date>
+        <dc:description>The predatory neo-liberal capitalism that has become the norm in India over the last two decades raises many uncomfortable questions. Today, consumption defines what we are. And with the western capitalist model reigning supreme, all of us seem to have been reduced to being just consumers in the eyes of the government.
+
+The effect on India s peasantry has been tremendous. The recent tragic stories played out in Kalinganagar, Singur and Nandigram show how many farmers suddenly find themselves up against the might of the state. The theft of agricultural land from poor farmers in the name of progress has become routine.
+
+Meanwhile, private corporations continue to ravage the country s natural resources without any protest from the administration.
+
+In Desire Named Development, Aditya Nigam makes the case for dismantling some cherished beliefs and for restructuring the economy and our cities in particular ways. A substantial change in government policies and individual consumption habits can still make another world possible for India s future.
+
+Nigam makes a strong case for dismantling some cherished beliefs and for restructuring the economy and our cities in particular ways.</dc:description>
+        <dc:identifier opf:scheme="ARG">51e92e8e307888b30c00018a.1</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Aditya Nigam&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-07-03T11:57:12.402852+00:00" name="calibre:timestamp"/>
+        <meta content="Desire Named Development" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

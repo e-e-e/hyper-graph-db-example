@@ -1,0 +1,23 @@
+{
+  "name": "graph-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "burn": "rm -rf graph.db",
+    "fresh": "npm run burn; node populateDB.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "folder-walker": "^3.1.0",
+    "hyper-graph-db": "0.0.1",
+    "hyperdb": "^2.0.0",
+    "open-packaging-format": "0.0.11",
+    "pump": "^2.0.0"
+  },
+  "devDependencies": {
+    "standard": "^10.0.3"
+  }
+}

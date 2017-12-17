@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">91</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7712c87b-c52e-4b4d-9d23-7385dbb16640</dc:identifier>
+        <dc:title>Postcolonialism, Marxism and Non-Western Thought</dc:title>
+        <dc:creator opf:file-as="Nigam, Aditya, , ," opf:role="aut">Aditya Nigam</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-03T11:56:50+00:00</dc:date>
+        <dc:description>The difficulty is that even when the theorist produced by this epistemic machine turns his or her gaze to the non-West, she can only see instances of ‘retardation.’ The European trajectory remains the norm and so, every other story has to be narrated in terms of its deviation from that norm This is what Sudipta Kaviraj refers to as the ‘Euro-normality’ of the social sciences - the fact that Europe constitutes the natural ‘north’ of the compass of social and political theory (Kaviraj 2009: 189). The fact that ruling elites in these postcolonial societies too partake of this vision and are therefore constantly engaged in the game of 'catching up', only exacerbates the situation. In fact, it gives a certain urgency to the need to break with this Euro-normality, given that this 'catching up' is never benign and involves massive levels of dislocation and violence - as one sees for example, in the restructuring of Indian cities or in the sharp conflicts around land acquisition.</dc:description>
+        <dc:identifier opf:scheme="ARG">53cfd8b8334fe03039b0cff7.1</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Aditya Nigam&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-07-03T11:57:13.172394+00:00" name="calibre:timestamp"/>
+        <meta content="Postcolonialism, Marxism and Non-Western Thought" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

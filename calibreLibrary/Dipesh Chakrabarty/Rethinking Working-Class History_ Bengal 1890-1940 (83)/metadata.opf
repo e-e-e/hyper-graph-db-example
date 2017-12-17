@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">83</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5088f8ec-3636-4370-a17c-7c9fa326df5a</dc:identifier>
+        <dc:title>Rethinking Working-Class History: Bengal 1890-1940</dc:title>
+        <dc:creator opf:file-as="Chakrabarty, Dipesh, , ," opf:role="aut">Dipesh Chakrabarty</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-03T11:56:36+00:00</dc:date>
+        <dc:description>Dipesh Chakrabarty combines a history of the jute-mill workers of Calcutta with a fresh look at labor history in Marxist scholarship. Opposing a reductionist view of culture and consciousness, he examines the milieu of the jute-mill workers and the way it influenced their capacity for class solidarity and "revolutionary" action from 1890 to 1940. Around and within this empirical core is built his critique of emancipatory narratives and their relationship to such Marxian categories as "capital," "proletariat," or "class consciousness."
+
+The book contributes to currently developing theories that connect Marxist historiography, post-structuralist thinking, and the traditions of hermeneutic analysis. Although Chakrabarty deploys Marxian arguments to explain the political practices of the workers he describes, he replaces universalizing Marxist explanations with a sensitive documentary method that stays close to the experience of workers and their European bosses. He finds in their relationship many elements of the landlord/tenant relationship from the rural past: the jute-mill workers of the period were preindividualist in consciousness and thus incapable of participating consistently in modern forms of politics and political organization.</dc:description>
+        <dc:identifier opf:scheme="ARG">52176449307888af0a00022b.1</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Dipesh Chakrabarty&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-07-03T11:57:12.767915+00:00" name="calibre:timestamp"/>
+        <meta content="Rethinking Working-Class History: Bengal 1890-1940" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">58</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">13f11c23-a18a-4e34-ae18-e4cbc3e49e62</dc:identifier>
+        <dc:title>Hong Kong Culture and the Politics of Disappearance</dc:title>
+        <dc:creator opf:file-as="Abbas, Ackbar, , ," opf:role="aut">Ackbar Abbas</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-03T11:56:17+00:00</dc:date>
+        <dc:description>On June 30, 1997, Hong Kong as we know it will disappear, ceasing its singular and ambiguous existence as a colonial holdover and becoming part of the People’s Republic of China. In an intriguing and provocative exploration of its cinema, architecture, photography, and literature, Ackbar Abbas considers what Hong Kong, with its unique relations to decolonization and disappearance, can teach us about the future of both the colonial city and the global city.
+
+The culture of Hong Kong encompasses Jackie Chan and John Woo, British colonial architecture and postmodern skyscrapers. Ironically, it was not until they were faced with the imposition of Mainland power—with the signing of the Sino-British Joint Agreement in 1984—that the denizens of the colony began the search for a Hong Kong identity. According to Abbas, Hong Kong’s peculiar lack of identity is due to its status as “not so much a place as a space of transit,” whose residents think of themselves as transients and migrants on their way from China to somewhere else.  
+Abbas explores the way Hong Kong’s media saturation changes its people’s experience of space so that it becomes abstract, dominated by signs and images that dispel memory, history, and presence.
+
+Hong Kong disappears through simple dualities such as East/West and tradition/modernity. What is missing from a view of Hong Kong as merely a colony is the paradox that Hong Kong has benefited from and made a virtue of its dependent colonial status, turning itself into a global and financial city and outstripping its colonizer in terms of wealth.  
+Combining sophisticated theory and a critical perspective, this rich and thought-provoking work captures the complex situation of the metropolis that is contemporary Hong Kong. Along the way, it challenges, entertains, and makes an important contribution to our thinking about the surprising processes and consequences of colonialism.</dc:description>
+        <dc:identifier opf:scheme="ARG">51c58cf66c3a0edb0b031000.1</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Ackbar Abbas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-07-03T11:57:11.636759+00:00" name="calibre:timestamp"/>
+        <meta content="Hong Kong Culture and the Politics of Disappearance" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

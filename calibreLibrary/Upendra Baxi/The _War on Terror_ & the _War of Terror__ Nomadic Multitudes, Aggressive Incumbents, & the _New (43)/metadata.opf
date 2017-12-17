@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c75d8267-964e-48f3-9621-80c3ce22f9b4</dc:identifier>
+        <dc:title>The “War on Terror" &amp; the “War of Terror”: Nomadic Multitudes, Aggressive Incumbents, &amp; the “New” International Law</dc:title>
+        <dc:creator opf:file-as="Baxi, Upendra, , ," opf:role="aut">Upendra Baxi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-03T11:56:21+00:00</dc:date>
+        <dc:description>This article contrasts and compares the war on terror and the war of terror in the wake of, and before,  
+11 September 2001. The philosophical underpinnings involved in defining “terrorism” are analyzed in the  
+context of the United States’ war on terrorism and related wars of terrorism, such as the 1998 World Islamic  
+Council’s fatwa. Both wars fall within the wording of recent United Nations’ Resolutions that address the  
+adverse impact of terrorism on Human Rights. The understanding of the meaning of “terrorism” by those  
+promoting the war on terrorism provides a powerful political tool, notwithstanding effects on Human Rights  
+that are similar to the effects that result from the war of terrorism. These two wars signify a patterned break from the classical comity between nation-states with respect to acts of aggression, and the values being promoted in this context serve the emerging American Empire and the resistance to it. The result, framed by those promoting  
+the war on terrorism, is that—either being for or against terrorism—potential for non-violent solutions are  
+lessened. Since September 11, the war on terror has installed a new rule of preemptive self-defence, grounded in suspicion, and with no recent precedent in international law.</dc:description>
+        <dc:identifier opf:scheme="ARG">51c58bfe6c3a0eda0bac7e00.1</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Upendra Baxi&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-07-03T11:57:11.134719+00:00" name="calibre:timestamp"/>
+        <meta content="War on Terror&quot; &amp; the “War of Terror”: Nomadic Multitudes, Aggressive Incumbents, &amp; the “New” International Law, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

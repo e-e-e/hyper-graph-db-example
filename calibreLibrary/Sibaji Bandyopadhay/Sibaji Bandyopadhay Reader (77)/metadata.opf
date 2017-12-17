@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">77</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">baf1fceb-94c9-42cc-89fb-d65a5c3366f0</dc:identifier>
+        <dc:title>Sibaji Bandyopadhay Reader</dc:title>
+        <dc:creator opf:file-as="Bandyopadhay, Sibaji, , ," opf:role="aut">Sibaji Bandyopadhay</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-03T11:56:39+00:00</dc:date>
+        <dc:description>The Reader is an anthology of eight essays. The anthology focuses on a myriad of themes: politics of performance; nationalist appropriation and re-constitution of non-dualist Vedanta s tenets; double-take on remembering and forgetting; elusiveness of sexual identities; differences that engender terror. The essays take as their point of departure: a number of pre-modern Indian texts; a late nineteenth-early twentieth century archive of philosophical-cum journalistic writing in English published from Kolkata; specific art-works of Vivan Sundaram, Satyajit Ray, Ritwik Ghatak; the Pandora s Box that gets opened with the release of the film Fire ; Sigmund Freud s protracted struggles to establish fear , fright and anxiety as distinct conceptual categories; the grammar of terror that may be retrieved from the Mahabharata.
+
+About the Author
+
+SIBAJI BANDYOPADHYAY Professor of Cultural Studies Centre for Studies in Social Sciences, Calcutta (CSSSC) Formerly, Professor of Comparative Literature, Jadavpur University, Kolkata Sibaji Bandyopadhyay has written extensively on the ideological imperatives that underlie the modern reception of the Mahàbhàrata and the Gìtà both in the forms of translation and commentary. Sibaji Bandyopadhyay has a number of anthologies of poems, plays, stories and novels all written in Bengali. One of his plays, Uttampurush Ekbachan: Ekti Bhan, has been translated into English bearing the title The Book of Night: A Moment from the Mahabharata. Sibaji Bandyopadhyay has been awarded Sisir Kumar Das Memorial Prize 2010 for his contributions to Bengali literature.</dc:description>
+        <dc:identifier opf:scheme="ARG">51e92e8e307888b30c000197.1</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Sibaji Bandyopadhay&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-07-03T11:57:12.548812+00:00" name="calibre:timestamp"/>
+        <meta content="Sibaji Bandyopadhay Reader" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

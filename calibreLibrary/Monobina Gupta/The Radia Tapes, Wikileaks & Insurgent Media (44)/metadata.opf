@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">53b2679a-32f9-404a-a1b6-e56c0ee34f3a</dc:identifier>
+        <dc:title>The Radia Tapes, Wikileaks &amp; Insurgent Media</dc:title>
+        <dc:creator opf:file-as="Gupta, Monobina, , ," opf:role="aut">Monobina Gupta</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-03T11:56:19+00:00</dc:date>
+        <dc:description>The power of governments, corporations and older power structures has been sharply, and suddenly, challenged by the emergence of a viral new media. Despite all efforts – ignoring, monitoring, threatening and censoring – it has been near impossible to control the flow of information outside the traditional filters of mainstream media. On the other hand, the control of governments and corporations over the internet is increasing. How will this struggle play out?</dc:description>
+        <dc:identifier opf:scheme="ARG">51c58bfe6c3a0eda0bad7e00.1</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Monobina Gupta&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-07-03T11:57:11.200991+00:00" name="calibre:timestamp"/>
+        <meta content="Radia Tapes, Wikileaks &amp; Insurgent Media, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

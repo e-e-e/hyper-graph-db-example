@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">67</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f032645b-b177-45db-aca1-6e1e08be0bad</dc:identifier>
+        <dc:title>Touts, Pirates and Ghosts</dc:title>
+        <dc:creator opf:file-as="Benjamin, Solomon, , ," opf:role="aut">Solomon Benjamin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-03T11:56:18+00:00</dc:date>
+        <dc:description>Such politics is reinforced by the economic underpinnings of urban terrain. Specifically, regularisation has an immediate and extensive impact on the local economies of manufacturing and trade. A better road means that a front room can be turned into a corner store or a small manufacturing unit. A new electrical transformer in the block attracts new firms without the fear of ‘tripping’ the electrical system. Upgrading spurred by regularisation  
+has significant systemic impacts: reliable electricity increases productivity; roads open up access to firms locating in more interior parts. Densification opens up opportunities to customise products responding to new markets at a regional and national level. This, in turn, is made possible by the manufacture of customised capital machinery in close proximity. Such relationships form part of the logic of interconnected production where the  
+output of one firm forms the input of another.</dc:description>
+        <dc:identifier opf:scheme="ARG">51c58cf66c3a0edb0bea0200.1</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Solomon Benjamin&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-07-03T11:57:12.054376+00:00" name="calibre:timestamp"/>
+        <meta content="Touts, Pirates and Ghosts" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

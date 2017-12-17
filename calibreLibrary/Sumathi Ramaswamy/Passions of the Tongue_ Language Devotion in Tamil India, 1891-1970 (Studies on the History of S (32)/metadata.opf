@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">840cc9aa-3c6d-40c0-ae71-2e4ba2fc3667</dc:identifier>
+        <dc:title>Passions of the Tongue: Language Devotion in Tamil India, 1891-1970 (Studies on the History of Society and Culture)</dc:title>
+        <dc:creator opf:file-as="Ramaswamy, Sumathi, , ," opf:role="aut">Sumathi Ramaswamy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-03T11:55:39+00:00</dc:date>
+        <dc:description>Why would love for their language lead several men in southern India to burn themselves alive in its name? Passions of the Tongue analyzes the discourses of love, labor, and life that transformed Tamil into an object of such passionate attachment, producing in the process one of modern India's most intense movements for linguistic revival and separatism.  
+Sumathi Ramaswamy suggests that these discourses cannot be contained within a singular metanarrative of linguistic nationalism and instead proposes a new analytic, "language devotion." She uses this concept to track the many ways in which Tamil was imagined by its speakers and connects these multiple imaginings to their experience of colonial and post-colonial modernity. Focusing in particular on the transformation of the language into a goddess, mother, and maiden, Ramaswamy explores the pious, filial, and erotic aspects of Tamil devotion. She considers why, as its speakers sought political and social empowerment, metaphors of motherhood eventually came to dominate representations of the language.</dc:description>
+        <dc:identifier opf:scheme="ARG">51c5856f6c3a0e090ce81200.1</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Sumathi Ramaswamy&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-07-03T11:57:10.755297+00:00" name="calibre:timestamp"/>
+        <meta content="Passions of the Tongue: Language Devotion in Tamil India, 1891-1970 (Studies on the History of Society and Culture)" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

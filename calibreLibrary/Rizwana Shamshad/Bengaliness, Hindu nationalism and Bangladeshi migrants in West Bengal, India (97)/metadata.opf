@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">97</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0c58ebdb-0e55-49af-bb69-b500e3e50020</dc:identifier>
+        <dc:title>Bengaliness, Hindu nationalism and Bangladeshi migrants in West Bengal, India</dc:title>
+        <dc:creator opf:file-as="Shamshad, Rizwana, , ," opf:role="aut">Rizwana Shamshad</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-03T11:56:55+00:00</dc:date>
+        <dc:description>Hindu nationalists made migration from Bangladesh an election campaign in West
+Bengal during the 1990s. Although there were various allegations against Bangladeshi
+migration, it never became a mainstream political issue in the state, like in neighbouring
+Assam. West Bengal shares the longest border with Bangladesh, compared to any
+other Indian state, and hosts a large number of Bangladeshi migrants, according to the
+Census reports in India. West Bengal and Bangladesh share a common ethnicity, both
+are predominantly Bengali. Can this shared Bengaliness explain why Bangladeshi
+migration did not become a divisive political issue in the state? If this sameness is a
+bonding factor, what about the Ghoti-Bangal differences? Drawn from in-depth interviews
+with the representatives of West Bengal’s key civil society organisations and
+political parties, I argue that a particular historical and cultural process, unique to West
+Bengal and Bangladesh, has shaped the current attitude towards Bangladeshi migrants
+in the state.</dc:description>
+        <dc:identifier opf:scheme="ARG">572f09e99ff37c05dc61e6fe.1</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Rizwana Shamshad&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-07-03T11:57:13.458682+00:00" name="calibre:timestamp"/>
+        <meta content="Bengaliness, Hindu nationalism and Bangladeshi migrants in West Bengal, India" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

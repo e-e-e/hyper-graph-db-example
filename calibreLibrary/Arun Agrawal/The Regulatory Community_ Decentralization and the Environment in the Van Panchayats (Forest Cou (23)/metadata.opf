@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b44e3cc2-b804-417a-b9de-e03151f31665</dc:identifier>
+        <dc:title>The Regulatory Community: Decentralization and the Environment in the Van Panchayats (Forest Councils) of Kumaon, India</dc:title>
+        <dc:creator opf:file-as="Agrawal, Arun, , ," opf:role="aut">Arun Agrawal</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-03T11:55:45+00:00</dc:date>
+        <dc:description>Mountain Research and Development, Vol. 21, No. 3 (Aug., 2001), pp. 208-211</dc:description>
+        <dc:identifier opf:scheme="ARG">51c584186c3a0ed90bf90a00.1</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Arun Agrawal&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-07-03T11:57:10.489596+00:00" name="calibre:timestamp"/>
+        <meta content="Regulatory Community: Decentralization and the Environment in the Van Panchayats (Forest Councils) of Kumaon, India, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

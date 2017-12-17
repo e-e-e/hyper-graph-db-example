@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">66fddcec-cfb4-4d4d-a86d-a1e2ac4d53e5</dc:identifier>
+        <dc:title>Deathscapes - India in and Age of Romanticism and Empire</dc:title>
+        <dc:creator opf:file-as="Arnold, David, , ," opf:role="aut">David Arnold</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-03T11:55:53+00:00</dc:date>
+        <dc:identifier opf:scheme="ARG">51c584186c3a0ed90baf0f00.1</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;David Arnold&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-07-03T11:57:10.277247+00:00" name="calibre:timestamp"/>
+        <meta content="Deathscapes - India in and Age of Romanticism and Empire" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

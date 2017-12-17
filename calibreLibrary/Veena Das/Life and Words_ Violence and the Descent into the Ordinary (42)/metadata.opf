@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">48d806f8-a8b7-43d0-8d77-00d74db5de09</dc:identifier>
+        <dc:title>Life and Words: Violence and the Descent into the Ordinary</dc:title>
+        <dc:creator opf:file-as="Das, Veena, , ," opf:role="aut">Veena Das</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-03T11:56:21+00:00</dc:date>
+        <dc:description>n this powerful, compassionate work, one of anthropology's most distinguished ethnographers weaves together rich fieldwork with a compelling critical analysis in a book that will surely make a signal contribution to contemporary thinking about violence and how it affects everyday life. Veena Das examines case studies including the extreme violence of the Partition of India in 1947 and the massacre of Sikhs in 1984 after the assassination of then Prime Minister Indira Gandhi. In a major departure from much anthropological inquiry, Das asks how this violence has entered "the recesses of the ordinary" instead of viewing it as an interruption of life to which we simply bear witness. Das engages with anthropological work on collective violence, rumor, sectarian conflict, new kinship, and state and bureaucracy as she embarks on a wide-ranging exploration of the relations among violence, gender, and subjectivity. Weaving anthropological and philosophical reflections on the ordinary into her analysis, Das points toward a new way of interpreting violence in societies and cultures around the globe. The book will be indispensable reading across disciplinary boundaries as we strive to better understand violence, especially as it is perpetrated against women.
+
+Contents:
+1. The Event and the Everyday
+2. The Figure of the Abducted Woman: The Citizen as Sexed
+3. Language and Body: Transactions in the Construction of Pain
+4. The Act of Witnessing: Violence, Gender, and Subjectivity
+5. Boundaries, Violence, and the Work of Time
+6. Thinking of Time and Subjectivity
+7. In the Region of Rumor
+8. The Force of the Local
+9. The Signature of the State: The Paradox of Illegibility
+10. Three Portraits of Grief and Mourning
+11. Revisiting Trauma, Testimony, and Political Community</dc:description>
+        <dc:identifier opf:scheme="ARG">51c58bfe6c3a0eda0bab7e00.1</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Veena Das&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-07-03T11:57:11.082639+00:00" name="calibre:timestamp"/>
+        <meta content="Life and Words: Violence and the Descent into the Ordinary" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

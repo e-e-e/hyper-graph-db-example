@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">76</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">88a8763e-7e1c-4113-9250-e4c518563a54</dc:identifier>
+        <dc:title>Seeing like a feminist</dc:title>
+        <dc:creator opf:file-as="Menon, Nivedita, , ," opf:role="aut">Nivedita Menon</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-03T11:56:40+00:00</dc:date>
+        <dc:description>For Nivedita Menon, feminism is not about a moment of final triumph over patriarchy but about the gradual transformation of the social field so decisively that old markers shift forever.  
+From sexual harassment charges against international figures to the challenge that caste politics poses to feminism, from the ban on the veil in France to the attempt to impose skirts on international women badminton players, from queer politics to domestic servants' unions to the Pink Chaddi campaign, Menon deftly illustrates how feminism complicates the field irrevocably. 
+
+About the Author  
+Nivedita Menon teaches Political Thought at Jawaharlal Nehru University, Delhi. Her previous books include Recovering Subversion: Feminist Politics Beyond the Law, an edited volume Sexualities (2007) and Power and Contestation: India after 1989 (co-authored with Aditya Nigam). An active commentator on the blog kafila.org, she has been active with citizens forums in Delhi around secularism, workers and women s rights, sexuality, and in opposition to the nuclear bomb.</dc:description>
+        <dc:identifier opf:scheme="ARG">51e92e8e307888b30c000196.1</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Nivedita Menon&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-07-03T11:57:12.422898+00:00" name="calibre:timestamp"/>
+        <meta content="Seeing like a feminist" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9d80096d-bdbb-4cae-b713-e58bdceb5fd3</dc:identifier>
+        <dc:title>Partha Chatterjee Essay Collection</dc:title>
+        <dc:creator opf:file-as="Chatterjee, Partha, , ," opf:role="aut">Partha Chatterjee</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-03T11:55:45+00:00</dc:date>
+        <dc:description>Chatterjee - A Response to Taylor's - 'Modes of Civil Society'  
+Chatterjee - Anderson's Utopia  
+Chatterjee - Bengal - Rise and Growth of a Nationality  
+Chatterjee - Beyond the Nation - Or Within (EPW)  
+Chatterjee - Beyond the Nation - Or Within (ST)  
+Chatterjee - Colonialism, Nationalism, and Colonialized Women - The Contest in India  
+Chatterjee - Community in the East  
+Chatterjee - Critique of Popular Culture  
+Chatterjee - Democracy and the Violence of the State - A Political Negotiation of Death  
+Chatterjee - Empire after Globalisation  
+Chatterjee - Empire and Nation Revisited - 50 Years After Bandung  
+Chatterjee - Five Hundred Years of Fear and Love  
+Chatterjee - For an Indian History of Peasant Struggle  
+Chatterjee - History and the Nationaliation of Hinduism  
+Chatterjee - How We Loved the Bomb and Later Rued It  
+Chatterjee - In Birbhum after the Floods  
+Chatterjee - India's Divide - Economic Growth and Marginalized Groups  
+Chatterjee - Institutional Context of Social Science Research in South Asia  
+Chatterjee - Modern American Political Theory with Reference to Underdeveloped Nations  
+Chatterjee - Modes of Power - Some Clarifications  
+Chatterjee - On Gramsci's 'Fundamental Mistake'  
+Chatterjee - Peasant Cultures of the Twenty-First Century  
+Chatterjee - Peasants, Politics and Historiography - A Response  
+Chatterjee - Problems of a Marxist Political Theory - Considerations on Colletti  
+Chatterjee - Religious Minorities and the Secular State - Reflections on an Indian Impasse  
+Chatterjee - Secularism and Toleration  
+Chatterjee - The Classical Balance of Power Theory  
+Chatterjee - The Colonial State and Peasant Resistance in Bengal 1920-1947  
+Chatterjee - The Equilibrium Theory of Arms Races - Reply to the Comments by F. E. Banks  
+Chatterjee - The Equilibrium Theory of Arms Races - Some Extensions  
+Chatterjee - The Facts of the Matter (Chap. 1 from A Princely Impostor)  
+Chatterjee - The Need to Dissemble  
+Chatterjee - The Rights of the Governed  
+Chatterjee - Transferring a Political Theory - Early Nationalist Thought in India  
+Chatterjee and Chen KH - Intellectual-Political Commitments - An Interview with Partha Chatterjee  
+Chatterjee and Needham - Partha Chatterjee - In Conversation with Anuradha Dingwaney Needham</dc:description>
+        <dc:identifier opf:scheme="ARG">51c584176c3a0ed90b540500.1</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Partha Chatterjee&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-07-03T11:57:09.887369+00:00" name="calibre:timestamp"/>
+        <meta content="Partha Chatterjee Essay Collection" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

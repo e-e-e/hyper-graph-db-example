@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">00b5f609-70f6-44de-8dd7-6138ef99d7f4</dc:identifier>
+        <dc:title>Reticent poetics, queer politics</dc:title>
+        <dc:creator opf:file-as="Naifei, LIU, Jen-peng and DING, ," opf:role="aut">LIU Jen-peng</dc:creator>
+        <dc:creator opf:file-as="Naifei, LIU, Jen-peng and DING, ," opf:role="aut">DING Naifei</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-03T11:56:03+00:00</dc:date>
+        <dc:description>Abstract: This is a preliminary rethinking of the interface of tolerance and reticence as a dominant  
+aesthetic-ethical value with the maintaining of ‘proper’ sexual relations and the keeping of deviant  
+sex(ualities) in the realm of ghosts and wangliang. The paper is a descriptive analysis of certain  
+effects of homophobia as the latter is re-figured through ‘silent words and reticent tolerance’, passing  
+for the most ‘traditional’ of virtues in modern ‘democratic’ guise.</dc:description>
+        <dc:identifier opf:scheme="ARG">51c58bfe6c3a0eda0b5c7900.1</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;DING Naifei&quot;: &quot;&quot;, &quot;LIU Jen-peng&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-07-03T11:57:10.876935+00:00" name="calibre:timestamp"/>
+        <meta content="Reticent poetics, queer politics" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

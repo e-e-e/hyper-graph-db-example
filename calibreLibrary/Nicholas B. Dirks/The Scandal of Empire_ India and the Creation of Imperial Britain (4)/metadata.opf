@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">56f2c49b-e325-4ab9-911b-1b42bb699f8b</dc:identifier>
+        <dc:title>The Scandal of Empire: India and the Creation of Imperial Britain</dc:title>
+        <dc:creator opf:file-as="Dirks, Nicholas, B., ," opf:role="aut">Nicholas B. Dirks</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-03T11:55:47+00:00</dc:date>
+        <dc:description>Many have told of the East India Company’s extraordinary excesses in eighteenth-century India, of the plunder that made its directors fabulously wealthy and able to buy British land and titles, but this is only a fraction of the story. When one of these men―Warren Hastings―was put on trial by Edmund Burke, it brought the Company’s exploits to the attention of the public. Through the trial and after, the British government transformed public understanding of the Company’s corrupt actions by creating an image of a vulnerable India that needed British assistance. Intrusive behavior was recast as a civilizing mission. In this fascinating, and devastating, account of the scandal that laid the foundation of the British Empire, Nicholas Dirks explains how this substitution of imperial authority for Company rule helped erase the dirty origins of empire and justify the British presence in India.
+
+The Scandal of Empire reveals that the conquests and exploitations of the East India Company were critical to England’s development in the eighteenth century and beyond. We see how mercantile trade was inextricably linked with imperial venture and scandalous excess and how these three things provided the ideological basis for far-flung British expansion. In this powerfully written and trenchant critique, Dirks shows how the empire projected its own scandalous behavior onto India itself. By returning to the moment when the scandal of empire became acceptable we gain a new understanding of the modern culture of the colonizer and the colonized and the manifold implications for Britain, India, and the world.</dc:description>
+        <dc:identifier opf:scheme="ARG">51c584176c3a0ed90b990800.1</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Nicholas B. Dirks&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-07-03T11:57:09.965505+00:00" name="calibre:timestamp"/>
+        <meta content="Scandal of Empire: India and the Creation of Imperial Britain, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

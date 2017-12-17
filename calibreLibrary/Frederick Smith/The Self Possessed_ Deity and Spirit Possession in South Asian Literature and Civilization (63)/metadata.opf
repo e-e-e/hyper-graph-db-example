@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">63</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d6d76bbd-29b5-4c82-b5b0-b42bfe259477</dc:identifier>
+        <dc:title>The Self Possessed: Deity and Spirit Possession in South Asian Literature and Civilization</dc:title>
+        <dc:creator opf:file-as="Smith, Frederick, , ," opf:role="aut">Frederick Smith</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-03T11:56:23+00:00</dc:date>
+        <dc:description>The Self Possessed is a multifaceted, diachronic study reconsidering the very nature of religion in South Asia, the culmination of years of intensive research. Frederick M. Smith proposes that positive oracular or ecstatic possession is the most common form of spiritual expression in India, and that it has been linguistically distinguished from negative, disease-producing possession for thousands of years.
+
+In South Asia possession has always been broader and more diverse than in the West, where it has been almost entirely characterized as "demonic." At best, spirit possession has been regarded as a medically treatable psychological ailment and at worst, as a condition that requires exorcism or punishment. In South (and East) Asia, ecstatic or oracular possession has been widely practiced throughout history, occupying a position of respect in early and recent Hinduism and in certain forms of Buddhism.
+
+Smith analyzes Indic literature from all ages-the earliest Vedic texts; the Mahabharata; Buddhist, Jain, Yogic, Ayurvedic, and Tantric texts; Hindu devotional literature; Sanskrit drama and narrative literature; and more than a hundred ethnographies. He identifies several forms of possession, including festival, initiatory, oracular, and devotional, and demonstrates their multivocality within a wide range of sects and religious identities.
+
+Possession is common among both men and women and is practiced by members of all social and caste strata. Smith theorizes on notions of embodiment, disembodiment, selfhood, personal identity, and other key issues through the prism of possession, redefining the relationship between Sanskritic and vernacular culture and between elite and popular religion. Smith's study is also comparative, introducing considerable material from Tibet, classical China, modern America, and elsewhere.
+
+Brilliant and persuasive, The Self Possessed provides careful new translations of rare material and is the most comprehensive study in any language on this subject.</dc:description>
+        <dc:identifier opf:scheme="ARG">51c58cf66c3a0edb0b711100.1</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Frederick Smith&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-07-03T11:57:11.855265+00:00" name="calibre:timestamp"/>
+        <meta content="Self Possessed: Deity and Spirit Possession in South Asian Literature and Civilization, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

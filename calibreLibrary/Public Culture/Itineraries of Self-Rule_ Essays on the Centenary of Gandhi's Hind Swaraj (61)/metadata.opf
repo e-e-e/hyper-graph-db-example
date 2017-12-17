@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">61</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1d93844f-ce96-42c4-b997-85c0e4ad8ae4</dc:identifier>
+        <dc:title>Itineraries of Self-Rule: Essays on the Centenary of Gandhi's Hind Swaraj</dc:title>
+        <dc:creator opf:file-as="Culture, Public, , ," opf:role="aut">Public Culture</dc:creator>
+        <dc:creator opf:file-as="Culture, Public, , ," opf:role="aut">Faisal Devji</dc:creator>
+        <dc:creator opf:file-as="Culture, Public, , ," opf:role="aut">Ritu Birla</dc:creator>
+        <dc:creator opf:file-as="Culture, Public, , ," opf:role="aut">Arjun Appadurai</dc:creator>
+        <dc:creator opf:file-as="Culture, Public, , ," opf:role="aut">Crain Soudien</dc:creator>
+        <dc:creator opf:file-as="Culture, Public, , ," opf:role="aut">Isabel Hofmeyr</dc:creator>
+        <dc:creator opf:file-as="Culture, Public, , ," opf:role="aut">Jonathan Hyslop</dc:creator>
+        <dc:creator opf:file-as="Culture, Public, , ," opf:role="aut">Pamila Gupta</dc:creator>
+        <dc:creator opf:file-as="Culture, Public, , ," opf:role="aut">Keith Breckenridge</dc:creator>
+        <dc:creator opf:file-as="Culture, Public, , ," opf:role="aut">Rachel Dwyer</dc:creator>
+        <dc:creator opf:file-as="Culture, Public, , ," opf:role="aut">Vyjayanthi Rao</dc:creator>
+        <dc:creator opf:file-as="Culture, Public, , ," opf:role="aut">Christopher Pinney</dc:creator>
+        <dc:creator opf:file-as="Culture, Public, , ," opf:role="aut">Uday S. Mehta</dc:creator>
+        <dc:creator opf:file-as="Culture, Public, , ," opf:role="aut">Shruti Kapila</dc:creator>
+        <dc:creator opf:file-as="Culture, Public, , ," opf:role="aut">Aishwary Kumar</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-03T11:56:16+00:00</dc:date>
+        <dc:identifier opf:scheme="ARG">51c58cf66c3a0edb0b2a0800.1</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Pamila Gupta&quot;: &quot;&quot;, &quot;Christopher Pinney&quot;: &quot;&quot;, &quot;Public Culture&quot;: &quot;&quot;, &quot;Faisal Devji&quot;: &quot;&quot;, &quot;Isabel Hofmeyr&quot;: &quot;&quot;, &quot;Shruti Kapila&quot;: &quot;&quot;, &quot;Rachel Dwyer&quot;: &quot;&quot;, &quot;Crain Soudien&quot;: &quot;&quot;, &quot;Keith Breckenridge&quot;: &quot;&quot;, &quot;Jonathan Hyslop&quot;: &quot;&quot;, &quot;Vyjayanthi Rao&quot;: &quot;&quot;, &quot;Uday S. Mehta&quot;: &quot;&quot;, &quot;Ritu Birla&quot;: &quot;&quot;, &quot;Arjun Appadurai&quot;: &quot;&quot;, &quot;Aishwary Kumar&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-07-03T11:57:11.704347+00:00" name="calibre:timestamp"/>
+        <meta content="Itineraries of Self-Rule: Essays on the Centenary of Gandhi's Hind Swaraj" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

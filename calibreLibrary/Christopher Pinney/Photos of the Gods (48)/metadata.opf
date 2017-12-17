@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2b5a3b3b-3017-4ee9-9754-39587d49bc72</dc:identifier>
+        <dc:title>Photos of the Gods</dc:title>
+        <dc:creator opf:file-as="Pinney, Christopher, , ," opf:role="aut">Christopher Pinney</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-03T11:55:35+00:00</dc:date>
+        <dc:description>Can one have a history of images that treats pictures as more than simply a reflection of some thing else, something more important happening else where? Is it possible to envisage history as in part determined by struggles occurring at the level of the visual? This is the central question I pursue in this study.  
+Its specific focus is the production of chromo -lithographs within India from the late 1870s onwards. These pictures could easily be used to produce a narrative that conforms with what we already know about India, serving as evidence of what (as Carlo Ginzburg suggests) we have proved ‘by other means’.  
+What, however, if pictures have a different story to tell,  
+what if – in their luxuriant proliferation – they were able to narrate to us a different story, one told, in part, on their own terms?</dc:description>
+        <dc:identifier opf:scheme="ARG">51c58bfe6c3a0eda0bd07900.1</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Christopher Pinney&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-07-03T11:57:11.349278+00:00" name="calibre:timestamp"/>
+        <meta content="Photos of the Gods" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

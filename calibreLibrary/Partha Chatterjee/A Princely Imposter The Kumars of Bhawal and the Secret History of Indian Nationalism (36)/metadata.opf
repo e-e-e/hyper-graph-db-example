@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b36d8ce1-4351-4e98-ae89-9de1d305deff</dc:identifier>
+        <dc:title>A Princely Imposter The Kumars of Bhawal and the Secret History of Indian Nationalism</dc:title>
+        <dc:creator opf:file-as="Chatterjee, Partha, , ," opf:role="aut">Partha Chatterjee</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-03T11:55:42+00:00</dc:date>
+        <dc:description>"Princely Impostor is spell-binding narrative history--as gripping as a novel by Charles Dickens--that presents a vivid portrait of life in Bengal during the first half of the twentieth century. In addition, Chatterjee unobtrusively reflects on narrative history, historical truth, and the meanings of personal identity. A superbly written, thoroughly engrossing, provocative, and informative book."--Richard Bernstein  
+"This is the first scholarly rendering of the incredible tale of the Bhawal sannyasi. Its strengths and contributions are many. Chatterjee's gripping story offers a fascinating portrait of a colonial society. It also wonderfully demonstrates the historian's craft as a narrator, keeping the reader glued to the page."--Gyan Prakash, author of Another Reason
+
+"This extraordinary book represents an immensely valuable addition to the literature on South Asia. It will have great influence both within and outside of the academy and will soon be regarded as a classic."--Amitav Ghosh, author of The Glass Palace 
+
+About the Author  
+Partha Chatterjee is Director and Professor of Political Science at the Center for Studies in Social Sciences, Calcutta, and Visiting Professor of Anthropology at Columbia University. He is the author of many books, including Nationalist Thought and the Colonial World and The Nation and Its Fragments (Princeton). He is also a founding member of the editorial collective Subaltern Studies as well as a playwright and essayist in Bengali.</dc:description>
+        <dc:identifier opf:scheme="ARG">51c58bfe6c3a0eda0b507900.1</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Partha Chatterjee&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-07-03T11:57:10.838038+00:00" name="calibre:timestamp"/>
+        <meta content="Princely Imposter The Kumars of Bhawal and the Secret History of Indian Nationalism, A" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

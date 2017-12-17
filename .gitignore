@@ -1,0 +1,4 @@
+node_modules/
+graph.db
+*.log
+*.pdf

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">65</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d136fa4e-d20b-4a03-a813-74795e18ab39</dc:identifier>
+        <dc:title>Fascinating Hindutva</dc:title>
+        <dc:creator opf:file-as="Narayan, Badri, , ," opf:role="aut">Badri Narayan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-03T11:56:26+00:00</dc:date>
+        <dc:description>In the present Indian sociopolitical scenario, a large number of dalit castes have become the main players in the electoral arena and politically mobilizing them has become a compulsion of all political parties. The strong desire of these castes to assert their identity based on their sense of pastness is being profitably encashed by many political parties who are appropriating their heroes and recreating their histories to suit their political ideology and thereby politically mobilizing them.This is especially true in UP and Bihar where society is still divided on caste lines and the lower castes are still oppressed. "Fascinating Hindutva" examines how, aided by other Hindutva forces like RSS and VHP, the strategies of BJP for mobilizing dalits rests on reinterpreting their Hindu past and unifying them under the metanarrative of Hindutva. It is an exploration of the fascinating tactics used by the Hindutva forces to politically mobilize individual dalit castes like the Nishads, Musahars and Dusadhs by saffronising their heroes.
+
+  
+For people with a slow data connection: The file is round about ** 80mb ** and could take several minutes to download!</dc:description>
+        <dc:identifier opf:scheme="ARG">51c58cf66c3a0edb0bdb1100.1</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Badri Narayan&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-07-03T11:57:11.895842+00:00" name="calibre:timestamp"/>
+        <meta content="Fascinating Hindutva" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

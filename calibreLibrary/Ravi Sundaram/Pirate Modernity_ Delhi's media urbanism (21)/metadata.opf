@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">58892ddb-f3ee-4cab-91b2-9d27ea11e48c</dc:identifier>
+        <dc:title>Pirate Modernity: Delhi's media urbanism</dc:title>
+        <dc:creator opf:file-as="Sundaram, Ravi, , ," opf:role="aut">Ravi Sundaram</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-03T11:56:45+00:00</dc:date>
+        <dc:description>Using Delhi’s contemporary history as a site for reflection, Pirate Modernity moves from a detailed discussion of the technocratic design of the city by US planners in the 1950s, to the massive expansions after 1977, culminating in the urban crisis of the 1990s. As a practice, pirate modernity is an illicit form of urban globalization. Poorer urban populations increasingly inhabit non-legal spheres: unauthorized neighborhoods, squatter camps and bypass legal technological infrastructures (media, electricity). This pirate culture produces a significant enabling resource for subaltern populations unable to enter the legal city. Equally, this is an unstable world, bringing subaltern populations into the harsh glare of permanent technological visibility, and attacks by urban elites, courts and visceral media industries. The book examines contemporary Delhi from some of these sites: the unmaking of the citys modernist planning design, new technological urban networks that bypass states and corporations, and the tragic experience of the road accident terrifyingly enhanced by technological culture. Pirate Modernity moves between past and present, along with debates in Asia, Africa and Latin America on urbanism, media culture, and everyday life.
+
+This pioneering book suggests cities have to be revisited afresh after proliferating media culture. Pirate Modernity boldly draws from urban and cultural theory to open a new agenda for a world after media urbanism.</dc:description>
+        <dc:identifier opf:scheme="ARG">51c584186c3a0ed90bd30e00.1</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Ravi Sundaram&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-07-03T11:57:10.449307+00:00" name="calibre:timestamp"/>
+        <meta content="Pirate Modernity: Delhi's media urbanism" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

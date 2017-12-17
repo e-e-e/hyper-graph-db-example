@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">94</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0169d3d9-d5c0-41b8-b954-7980f5a157e0</dc:identifier>
+        <dc:title>Querying the Medieval</dc:title>
+        <dc:creator opf:file-as="Inden, Ronald, B., ," opf:role="aut">Ronald B. Inden</dc:creator>
+        <dc:creator opf:file-as="Inden, Ronald, B., ," opf:role="aut">Daud Ali</dc:creator>
+        <dc:creator opf:file-as="Inden, Ronald, B., ," opf:role="aut">Johnathan S. Walters</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-03T11:56:53+00:00</dc:date>
+        <dc:identifier opf:scheme="ARG">5530195a334fe05073af2e1c.1</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Daud Ali&quot;: &quot;&quot;, &quot;Ronald B. Inden&quot;: &quot;&quot;, &quot;Johnathan S. Walters&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-07-03T11:57:13.310607+00:00" name="calibre:timestamp"/>
+        <meta content="Querying the Medieval" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">80</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d91cfa9b-c945-4d83-9747-0dfbc24228d6</dc:identifier>
+        <dc:title>Singular but double-entry: Paul Willemen's proposals for a comparative film studies</dc:title>
+        <dc:creator opf:file-as="Prasad, Madhava, , ," opf:role="aut">Madhava Prasad</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-03T11:56:41+00:00</dc:date>
+        <dc:identifier opf:scheme="ARG">51e92e8e307888b30c00025e.1</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Madhava Prasad&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-07-03T11:57:12.700239+00:00" name="calibre:timestamp"/>
+        <meta content="Singular but double-entry: Paul Willemen's proposals for a comparative film studies" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">88</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dc8be94d-438b-4bf6-b7ba-c92f6ef8172d</dc:identifier>
+        <dc:title>South Asian Cultures of the Bomb: Atomic Publics and the State in India and Pakistan</dc:title>
+        <dc:creator opf:file-as="Abraham, Itty, , ," opf:role="aut">Itty Abraham</dc:creator>
+        <dc:creator opf:file-as="Abraham, Itty, , ," opf:role="aut">Zia Mian</dc:creator>
+        <dc:creator opf:file-as="Abraham, Itty, , ," opf:role="aut">M. V. Ramana</dc:creator>
+        <dc:creator opf:file-as="Abraham, Itty, , ," opf:role="aut">Sankaran Krishna</dc:creator>
+        <dc:creator opf:file-as="Abraham, Itty, , ," opf:role="aut">Ammara Durrani</dc:creator>
+        <dc:creator opf:file-as="Abraham, Itty, , ," opf:role="aut">Srirupa Roy</dc:creator>
+        <dc:creator opf:file-as="Abraham, Itty, , ," opf:role="aut">Haider Nizamani</dc:creator>
+        <dc:creator opf:file-as="Abraham, Itty, , ," opf:role="aut">Raminder Kaur</dc:creator>
+        <dc:creator opf:file-as="Abraham, Itty, , ," opf:role="aut">Iftikhar Dadi</dc:creator>
+        <dc:creator opf:file-as="Abraham, Itty, , ," opf:role="aut">Karsten Frey</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-07-03T11:56:49+00:00</dc:date>
+        <dc:description>Since their founding as independent nations, nuclear issues have been key elements of nationalism and the public sphere in both India and Pakistan. Yet the relationship between nuclear arms and civil society in the region is seldom taken into account in conventional security studies. These original and provocative essays examine the political and ideological components of national drives to possess and test nuclear weapons. Equal coverage for comparable issues in each country frames the volume as a genuine dialogue across this contested boundary.
+
+"Many observers trace the origins of the nuclear 'problem' in South Asia to 1998, the year in which India and Pakistan together conducted 11 nuclear tests and declared themselves nuclear powers. Some, more historically minded, trace the coming of the nuclear age to South Asia to 1974, when India set off a single underground 'peaceful' nuclear explosion. Both views are substantially wrong. The people of India and Pakistan have been subject to nuclear power for over 60 years. . . . [N]uclear matters became a part of the region's conceptual and industrial landscape from practically the moment of political independence." —from the introduction
+
+Table of Contents:
+1. Introduction: Nuclear Power and Atomic Publics / Itty Abraham
+2. Fevered with Dreams of the Future: The Coming of the Atomic Age to Pakistan / Zia Mian
+3. India's Nuclear Enclave and the Practice of Secrecy / M. V. Ramana
+4. The Social Life of a Bomb: India and the Ontology of an "Overpopulated" Society / Sankaran Krishna
+5. Pride and Proliferation: Pakistan's Nuclear Psyche after A. Q. Khan / Ammara Durrani
+6. The Politics of Death: The Antinuclear Imaginary in India / Srirupa Roy
+7. Pakistan's Atomic Publics: Survey Results / Haider Nizamani
+8. Gods, Bombs, and the Social Imaginary / Raminder Kaur
+9. Nuclearization and Pakistani Popular Culture since 1998 / Iftikhar Dadi
+10. Guardians of the Nuclear Myth: Politics, Ideology, and India's Strategic Community / Karsten Frey</dc:description>
+        <dc:identifier opf:scheme="ARG">53b4f9f1334fe051a1d78deb.1</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Raminder Kaur&quot;: &quot;&quot;, &quot;Srirupa Roy&quot;: &quot;&quot;, &quot;Karsten Frey&quot;: &quot;&quot;, &quot;Itty Abraham&quot;: &quot;&quot;, &quot;Zia Mian&quot;: &quot;&quot;, &quot;Sankaran Krishna&quot;: &quot;&quot;, &quot;M. V. Ramana&quot;: &quot;&quot;, &quot;Haider Nizamani&quot;: &quot;&quot;, &quot;Ammara Durrani&quot;: &quot;&quot;, &quot;Iftikhar Dadi&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-07-03T11:57:13.026212+00:00" name="calibre:timestamp"/>
+        <meta content="South Asian Cultures of the Bomb: Atomic Publics and the State in India and Pakistan" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
